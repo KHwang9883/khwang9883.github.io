@@ -574,8 +574,8 @@ comments:
   # Available values: tabs | buttons
   style: tabs
   # Choose a comment system to be displayed by default.
-  # Available values: changyan | disqus | disqusjs | gitalk | livere | valine
-  active: valine
+  # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
+  active:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -613,21 +613,6 @@ changyan:
   enable: false
   appid:
   appkey:
-
-# Valine
-# For more information: https://valine.js.org, https://github.com/xCss/Valine
-valine:
-  enable: true
-  appid: stu8XO1pdnkkAGaeFSCwJi9M-gzGzoHsz # Your leancloud application appid
-  appkey: BPzEH8hr9dotAPl5mg4WiGaI # Your leancloud application appkey
-  serverURLs: # When the custom domain name is enabled, fill it in here
-  placeholder: # Comment box placeholder
-  avatar: mp # Gravatar style
-  meta: [nick, mail, link] # Custom comment header
-  pageSize: 10 # Pagination size
-  visitor: false # Article reading statistic
-  comment_count: true # If false, comment count will only be displayed in post page, not in home page
-  recordIP: true # Whether to record the commenter IP
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -914,3 +899,18 @@ vendors:
 css: css
 js: js
 images: img
+
+# Valine
+# For more information: https://valine.js.org, https://github.com/xCss/Valine
+valine:
+  enable: true
+  appid: stu8XO1pdnkkAGaeFSCwJi9M-gzGzoHsz # Your leancloud application appid
+  appkey: BPzEH8hr9dotAPl5mg4WiGaI # Your leancloud application appkey
+  serverURLs: # When the custom domain name is enabled, fill it in here
+  placeholder: # Comment box placeholder
+  avatar: mp # Gravatar style
+  meta: [nick, mail, link] # Custom comment header
+  pageSize: 10 # Pagination size
+  visitor: false # Article reading statistic
+  comment_count: true # If false, comment count will only be displayed in post page, not in home page
+  recordIP: true # Whether to record the commenter IP
