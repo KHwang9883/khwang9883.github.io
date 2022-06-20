@@ -900,17 +900,18 @@ css: css
 js: js
 images: img
 
-# Valine
-# For more information: https://valine.js.org, https://github.com/xCss/Valine
-valine:
+# Waline
+# For more information: https://waline.js.org, https://github.com/walinejs/waline
+waline:
   enable: true
-  appid: stu8XO1pdnkkAGaeFSCwJi9M-gzGzoHsz # Your leancloud application appid
-  appkey: BPzEH8hr9dotAPl5mg4WiGaI # Your leancloud application appkey
-  serverURLs: # When the custom domain name is enabled, fill it in here
-  placeholder: # Comment box placeholder
-  avatar: mp # Gravatar style
-  meta: [nick, mail, link] # Custom comment header
-  pageSize: 10 # Pagination size
-  visitor: false # Article reading statistic
-  comment_count: true # If false, comment count will only be displayed in post page, not in home page
-  recordIP: true # Whether to record the commenter IP
+  serverURL: waline.kevinh.wang
+  placeholder: 
+  avatar: mp
+  meta: [nick, mail, link]
+  pageSize: 10
+  lang: zh-cn
+  # Warning: 不要同时启用 `waline.visitor` 以及 `leancloud_visitors`.
+  visitor: false # 文章阅读统计
+  comment_count: true # 如果为 false , 评论数量只会在当前评论页面显示, 主页则不显示
+  requiredFields: [nick, mail] # 设置用户评论时必填的信息，[nick,mail]: [nick] | [nick, mail]
+  libUrl: # Set custom library cdn url
