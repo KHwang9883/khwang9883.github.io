@@ -79,7 +79,7 @@ Android 手机也是一大折腾对象。我第一次刷第三方 ROM 是给华�
 
 <img width="480" src="/img/in-post/mimax2.jpg" />
 
-Windows 10 经过几次大更新后，配置要求越来越高，亮机卡的游戏性能也严重不足，于是我先后添置了一块 GTX750Ti 显卡、一根 4GB 内存条以及一块 240GB 固态硬盘。这样一来，[这套配置](https://kevinh.wang/2022/01/27/my-devices/) 除了 CPU 稍显过时，算是达到勉强能用的水平了。NVIDIA 提供了 macOS 下的显卡驱动，我最终 [成功安装](https://kevinh.wang/2019/10/16/malware-recent-activities/) 了 macOS High Sierra，虽然还是依旧新鲜感一过就格掉了，但我从未如此喜悦。后来我分享了 EFI，不过由于一些配置上的原因，我把它封存了。
+Windows 10 经过几次大更新后，配置要求越来越高，亮机卡的游戏性能也严重不足，于是我先后添置了一块 GTX750Ti 显卡、一根 4GB 内存条以及一块 240GB 固态硬盘。这样一来，[这套配置](https://kevinh.wang/my-devices/) 除了 CPU 稍显过时，算是达到勉强能用的水平了。NVIDIA 提供了 macOS 下的显卡驱动，我最终 [成功安装](https://kevinh.wang/malware-recent-activities/) 了 macOS High Sierra，虽然还是依旧新鲜感一过就格掉了，但我从未如此喜悦。后来我分享了 EFI，不过由于一些配置上的原因，我把它封存了。
 
 <img src="/img/in-post/20191018-064209.png" />
 
@@ -89,7 +89,7 @@ Windows 10 经过几次大更新后，配置要求越来越高，亮机卡的游
 
 2019 年 4 月，我建立了自己的博客。10 月，我凭借对建站这一块的摸索，建立了 Mario Forever 社区，这期间我开始接触 GNU/Linux 命令行。一开始我真的什么都不懂，就用了 [OneinStack](https://oneinstack.com/) 一键包，服务器软件没有选 nginx，偏偏看了不知道是谁写的教程选了 Apache；PHP 扩展一个都没装，在安装 MediaWiki 时撞了不少坑；不会使用 `service xxx reload` 这种命令，要么直接重启服务器（还是从阿里云控制台重启的，其实只要 `reboot` 就行），要么 `service xxx restart`（并不优雅）；网站搭了半年多后才意识到备份的重要性，一年后才学会将网站数据备份到外部空间例如对象存储，并彻底不用密码登录 SSH……虽然做的时候自我感觉良好但其实我是真的菜。
 
-2020 年 6 月，我第一次 [亲自组装了台式机](https://kevinh.wang/2020/06/10/new-pc/)，并添置了第二块 SSD、无线网卡等部件。近两年，我认识了更多 GNU/Linux 发行版，如 Debian、Fedora、Arch、Manjaro 等，这些发行版我都安装了一遍，但都由于无法满足我的使用需求而被我放弃。由于 CentOS 8 提前结束支持，我把 VPS 的系统换成了 Debian，保持至今。2020 年 12 月，我买了树莓派 4B，虽然没能避免吃灰的命运（笑），但我没有把它卖掉的打算，说不定未来会有用的。
+2020 年 6 月，我第一次 [亲自组装了台式机](https://kevinh.wang/new-pc/)，并添置了第二块 SSD、无线网卡等部件。近两年，我认识了更多 GNU/Linux 发行版，如 Debian、Fedora、Arch、Manjaro 等，这些发行版我都安装了一遍，但都由于无法满足我的使用需求而被我放弃。由于 CentOS 8 提前结束支持，我把 VPS 的系统换成了 Debian，保持至今。2020 年 12 月，我买了树莓派 4B，虽然没能避免吃灰的命运（笑），但我没有把它卖掉的打算，说不定未来会有用的。
 
 <img width="480" src="/img/in-post/raspberrypi.jpg" />
 
