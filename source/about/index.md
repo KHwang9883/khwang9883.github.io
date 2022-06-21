@@ -9,6 +9,7 @@ type: "about"
 ## 本站
 - 建于 2019 年 4 月
 - 架设于 Vercel
+- [网站状态](https://status.kevinh.wang/)
 
 ## 联系方式
 - E-mail: huangyf9883 (at) gmail (dot) com
