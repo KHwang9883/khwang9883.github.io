@@ -8,7 +8,7 @@ type: "about"
 
 ## 本站
 - 建于 2019 年 4 月
-- 架设于阿里云轻量应用服务器香港机房
+- 架设于 Vercel
 
 ## 联系方式
 - E-mail: huangyf9883 (at) gmail (dot) com
