@@ -1,8 +1,9 @@
 ---
 title: 链接
 date: 2020-10-03 21:17:39
-type: "link"
 ---
+
+## 友情链接
 
 <div id="qexo-friends"></div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
