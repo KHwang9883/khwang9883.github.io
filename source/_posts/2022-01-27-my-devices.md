@@ -59,15 +59,6 @@ top_img: false
 - **屏幕**: 6.39" AMOLED (2340x1080)
 - **OS**: Android 11 (MIUI 12.5)
 
-### Redmi 7
-- **状态**: 不活跃
-- **CPU**: 高通骁龙 632
-- **GPU**: Adreno 506
-- **RAM**: 4GB
-- **ROM**: 64GB
-- **屏幕**: 6.26" LCD (1520x720)
-- **OS**: Android 10 (MIUI 12.5)
-
 ### 小米 Max 2
 - **状态**: 活跃，备机
 - **CPU**: 高通骁龙 625
