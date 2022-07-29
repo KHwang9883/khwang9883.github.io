@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-06-10
+- **本文最后更新**：2022-07-30
 - **设备布线图最后更新**：2022-06-06
 
 <img src="/img/in-post/device-map.png" />
@@ -19,11 +19,11 @@ top_img: false
 - **SSD2**: 铠侠 RC10 1TB
 - **HDD**: 东芝 DT01ACA300 3TB
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 21H2, with WSA (Android 11) & WSL (Ubuntu 20.04)
+- **OS 1**: Windows 11 Pro 21H2, with WSA (Android 12.1) & WSL (Ubuntu 20.04)
 - **OS 2**: 统信 UOS 家庭版
 
 ### 自组装台式机（2014.11）
-- **状态**: 非活跃
+- **状态**: 在用
 - **CPU**: AMD Athlon X4 760K
 - **GPU**: NVIDIA GeForce GTX 750 Ti
 - **主板**: 华硕 A58M-E R2.0
@@ -66,7 +66,7 @@ top_img: false
 - **RAM**: 4GB
 - **ROM**: 64GB
 - **屏幕**: 6.44" LCD (1920x1080)
-- **OS**: Android 12L (crDroid 8.5)
+- **OS**: Android 12.1 (PixelExperience)
 
 ### 红米 Note 3 双网通
 - **状态**: 不活跃，故障（听筒、前置摄像头等不工作）
@@ -94,6 +94,14 @@ top_img: false
 - **ROM**: 128GB
 - **屏幕**: 11" LCD (2000x1200)
 - **OS**: Android 11 (MIUI 13)
+
+### 易百分 YBFA9（杂牌学习平板）
+- **状态**: 不活跃
+- **CPU**: Mediatek MT6753
+- **RAM**: 3GB（实际）
+- **ROM**: 64GB
+- **屏幕**: 10.1" LCD (1280x800)
+- **OS**: Android 8.1
 
 ### iPad 2018
 - **状态**: 已卖出
