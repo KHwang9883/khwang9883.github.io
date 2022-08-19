@@ -8,33 +8,33 @@ top_img: false
 
 iOS、macOS、Linux 等类 UNIX 系统计算存储空间或文件大小时采用 1000 进制，苹果官网明确写明 1GB = 1,000,000,000 字节。Android 也是这一标准，但有些软件会以 1024 进制（2 的 10 次方，也叫做二进制）计算，典型案例是酷安和 MIUI 应用商店中显示微博安装包的大小为 88.4M，而安装器显示的大小为 92.6MB。这不是错误，1000 进制的 KiloByte MegaByte GigaByte 的缩写是 KB MB GB，而 1024 进制的单位在 Windows 中显示为 KB MB GB，在 Linux、MacOS 等系统为了区分，一般缩写为 KiB MiB GiB，意思是 binary byte，二进制字节。大部分 Android 系统对 1000 进制与 1024 进制的缩写不加区分，而很多时候我们还会将 B(yte) 也省略掉。
 
-<img width="360" src="/img/in-post/coolapk-weibo.jpg" />
-<img width="360" src="/img/in-post/mi-app-store-weibo.jpg" />
-<img width="360" src="/img/in-post/miui-installer-weibo.jpg" />
+<img width="360" src="/img/in-post/coolapk-weibo.webp" />
+<img width="360" src="/img/in-post/mi-app-store-weibo.webp" />
+<img width="360" src="/img/in-post/miui-installer-weibo.webp" />
 
 许多吐槽或科普「手机内存（存储）缩水」的报道经常会说「硬盘厂商计算容量的方式和操作系统不同」，这句话严格意义上不适用于 iOS 或 Android。手机存储空间 128GB，它就是 GigaByte，所以标注这个数字没有问题，「缩水」的原因在于可用空间一定小于 128GB——除了预装的操作系统，几乎所有智能手机出厂时都会预装第三方 App。
 
 Windows 采用 1024 进制的计算方式，一块 1TB 的硬盘格式化后会显示为 931GB（GiB）。无论哪种显示方式都没有问题，排除进制转换的因素，因为在哪家的操作系统上遵循的是哪家的标准，所以容量看起来少了一部分，有那么点心理作用的成分。
 
-<img src="/img/in-post/my-c-drive.jpg" />
+<img src="/img/in-post/my-c-drive.webp" />
 
 ## 谈游戏
 > 本文于 2021-04-16 发表在酷安 #最近在玩的游戏# #游戏# 话题。
 
-<img width="360" src="/img/in-post/screenshot-games.jpg" />
+<img width="360" src="/img/in-post/screenshot-games.webp" />
 
 我手机上就俩游戏，都只玩单机模式，相当于休闲游戏；平板上只玩地铁跑酷（国际版），左手看手机右手操作游戏，用那个 Freestyler 滑板（可以高跳+二段跳的那个）以苟延残喘，每天能废掉 100 多个滑板，还好上面金币多（600+ 万，打了三四年的进度）；每天的收集都要当天做，强迫症嘛。
 
-<img width="480" src="/img/in-post/subway-surf_1.jpg" />
-<img width="480" src="/img/in-post/subway-surf_2.jpg" />
-<img width="480" src="/img/in-post/subway-surf_3.jpg" />
-<img width="480" src="/img/in-post/subway-surf_4.jpg" />
+<img width="480" src="/img/in-post/subway-surf_1.webp" />
+<img width="480" src="/img/in-post/subway-surf_2.webp" />
+<img width="480" src="/img/in-post/subway-surf_3.webp" />
+<img width="480" src="/img/in-post/subway-surf_4.webp" />
 
 然后我突然发现，我已经很久没玩过正经游戏了（受虐滑稽），去年底 LOL 大改，气得我把游戏连带 WeGame 一同删了，记得当时更新之后第一次玩连怎么出装都不会；另外我不玩王者吃鸡，不玩原神，可以说去年底之后我就没碰过 PVP。Steam 最近基本没动过，里面 100 多款游戏我玩的比较多的只占其中不到 1/10；Epic 则更惨，2019 年开始那上面的免费游戏该领的我基本都领了，但实际玩过的就一个 GTA。昨天我还把 QQ 游戏给删了，自从新电脑买来，这货就被我装在电脑上，里面的游戏从来没有玩过（真的）。包括守望先锋也一样，我没删主要是可能有朋友会借我号玩玩（受虐滑稽）
 
 那有人会问我到底会玩些什么，我的回答是：马里奥同人游戏。09 10 年我开始接触一款叫《永远的马里奥》的同人游戏，它的作者来自波兰，被亲切地称作「波兰大叔」。到了 13 年左右，当时讨论游戏的贴吧，百度永远的玛丽吧的前吧主用大叔的引擎自己制作了一套关卡，接着到 14 年春节，他又把整个永远的马里奥的游戏重新复刻了一遍。从此吧友们开始自制关卡作品，而我玩的也基本是这些自制作品。17 年我当上了吧主，19 年 5 月贴吧大吞贴，我就辞了吧主，另起炉灶建了个 [论坛](https://www.marioforever.net/)，现在是论坛站长。我在贴吧那边叫 [newlife2017](https://tieba.baidu.com/home/main?un=newlife2017)，酷安这边之前也用过这个用户名。
 
-<img src="/img/in-post/mario-forever-remake.jpg" />
+<img src="/img/in-post/mario-forever-remake.webp" />
 
 看起来好像扯远了，但事实上我对这些作品也早已失去了兴趣，所以这就是前面讲的，正经的游戏不碰了，剩下的也就是 Google Play 上那些休闲游戏（由于某次变砖，进度全部丢失，此后因 MIUI 取消 GMS 支持而全部卸载）以及刚才提到的地铁跑酷了。
 
@@ -45,7 +45,7 @@ Windows 采用 1024 进制的计算方式，一块 1TB 的硬盘格式化后会�
 
 我妈的例子还好，因为 MIUI 10 并不是优化最差的版本。但是对于那些购买了出厂搭载 MIUI 12 的机型用户而言，就没那么幸运了。MIUI 12 的现状众所周知，如果一直不更新，肯定会存在体验问题，进而拉低小米手机在消费者中的形象。这完全是 MIUI 自己作，重视特效而轻视流畅度，还有一堆 bug。[@Vetrax嚣张卫视](https://weibo.com/u/1668726803) 曾经 [发微博](https://weibo.com/1668726803/Jz50KxHSh) 说，某品牌千元机（红米 Note 9）投诉声音比较大，（后半句是我说的）罪魁祸首就是 MIUI。**2022-03-08 更新：**~~结果今年 1 月她真的换上了 Note 9（~~
 
-<img src="/img/in-post/weibo-xzws.png" />
+<img src="/img/in-post/weibo-xzws.webp" />
 
 我爸之前也用的小米，用过一款非常坑爹的红米 Note 4（MTK X20），续航不行，发热卡顿，后来我把我自己淘汰的小米 Max 2 给他，系统是安卓 7 的 MIUI 11 稳定版，他用了几个月还是嫌卡（后来又换下来给我，作为备用机，我也觉得有点卡），最后换上了华为 nova 6 SE。他以前是有更新系统的习惯，但我不知道有没有更新过那部华为的系统（更新：已升级鸿蒙）。
 

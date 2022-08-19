@@ -6,7 +6,7 @@ top_img: false
 - **本文最后更新**：2022-07-30
 - **设备布线图最后更新**：2022-06-06
 
-<img src="/img/in-post/device-map.png" />
+<img src="/img/in-post/device-map.webp" />
 
 ## 电脑
 ### 自组装台式机（2020.06）
