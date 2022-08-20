@@ -3,8 +3,8 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-08-19
-- **设备布线图最后更新**：2022-08-19
+- **本文最后更新**：2022-08-21
+- **设备布线图最后更新**：2022-08-21
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -43,6 +43,17 @@ top_img: false
 - **屏幕**: 6.44" LCD (1920x1080)
 - **OS**: Android 12.1 (PixelExperience)
 
+## 荣耀 V8 高配版
+- **是否主力**: 否
+- **备注**: USB 口无法传输数据
+- **购买时间**: 2017-01
+- **CPU**: HUAWEI Kirin 955
+- **GPU**: ARM Mali-T880 MP4
+- **RAM**: 4GB LPDDR4
+- **ROM**: 64GB eMMC 5.1
+- **屏幕**: 5.7" LCD (2560x1440)
+- **OS**: Android 8.0.0 (EMUI 8.0)
+
 ### 联想小新 Pad Plus
 - **是否主力**: 是
 - **购买时间**: 2022-04-17
@@ -64,16 +75,6 @@ top_img: false
 - **HDD**: 希捷 ST500DM002 500GB SATA
 - **显示器**: AOC 2217 22" (1680x1050)
 - **OS**: Windows 7 SP1 64-bit
-
-## 荣耀 V8 高配版
-- **不活跃原因**: 过于老旧，系统不流畅；USB 口无法传输数据
-- **购买时间**: 2017-01
-- **CPU**: HUAWEI Kirin 955
-- **GPU**: ARM Mali-T880 MP4
-- **RAM**: 4GB LPDDR4
-- **ROM**: 64GB eMMC 5.1
-- **屏幕**: 5.7" LCD (2560x1440)
-- **OS**: Android 8.0.0 (EMUI 8.0)
 
 ### 红米 Note 3 双网通
 - **不活跃原因**: 故障（听筒、前置摄像头等不工作）
