@@ -70,7 +70,7 @@ top_img: false
 - **CPU**: AMD Athlon X4 760K
 - **GPU**: NVIDIA GeForce GTX 750 Ti (2GB GDDR5)
 - **主板**: 华硕 A58M-E R2.0
-- **RAM**: 8GB DDR3
+- **RAM**: 8GB DDR3 1600MT/s
 - **SSD**: 闪迪 SSD PLUS 240GB SATA
 - **HDD**: 希捷 ST500DM002 500GB SATA
 - **显示器**: AOC 2217 22" (1680x1050)
