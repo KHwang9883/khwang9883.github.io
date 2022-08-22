@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-08-21
+- **本文最后更新**：2022-08-23
 - **设备布线图最后更新**：2022-08-21
 
 <img src="/img/in-post/device-map.webp" />
@@ -15,7 +15,7 @@ top_img: false
 - **CPU**: AMD Ryzen 5 3500X
 - **GPU**: NVIDIA GeForce GTX 1650 SUPER (4GB GDDR6)
 - **主板**: 微星 B450M MORTAR MAX
-- **RAM**: 16GB DDR4
+- **RAM**: 16GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 500GB NVMe
 - **SSD2**: 铠侠 RC10 1TB NVMe
 - **HDD**: 东芝 DT01ACA300 3TB SATA
