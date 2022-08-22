@@ -170,7 +170,7 @@ top_img: false
 - **RAM**: 1GB
 - **ROM**: 4GB
 - **屏幕**: 5" LCD (960x540)
-- **OS**: Android 4.3
+- **OS**: Android 4.3 (EMUI 2.0)
 
 ### 昂达 V702 四核
 - **购买时间**: 2014-09
