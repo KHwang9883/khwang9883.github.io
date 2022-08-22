@@ -7,7 +7,7 @@ top_img: false
 
 我好傻 X 啊，不仔细阅读文档就这样「盲操作」，不出问题才怪。关于 RSS Feed，其实是不知道哪个主题的配置文件里面 `content_limit` 的锅。
 
-于是最终我真的切换到 Hexo，使用的是 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题。
+于是最终我真的切换到 Hexo，使用的是 [NexT](https://github.com/next-theme/hexo-theme-next/) 主题。
 
 ## 原文
 
