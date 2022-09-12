@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-08-23
+- **本文最后更新**：2022-09-13
 - **设备布线图最后更新**：2022-08-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -20,7 +20,7 @@ top_img: false
 - **SSD2**: 铠侠 RC10 1TB NVMe
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 12.1) & WSL (Ubuntu 20.04)
+- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 12.1) & WSL (Ubuntu 22.04)
 - **OS 2**: 统信 UOS 家庭版
 
 ### Redmi K40
@@ -35,6 +35,7 @@ top_img: false
 
 ### 小米 Max 2
 - **是否主力**: 否
+- **备注**: 电池衰减严重
 - **购买时间**: 2017-09-12
 - **CPU**: 高通骁龙 625
 - **GPU**: Adreno 506
@@ -45,7 +46,7 @@ top_img: false
 
 ### 荣耀 V8 高配版
 - **是否主力**: 否
-- **备注**: USB 口无法传输数据
+- **备注**: 由于更换过非官方副板，USB 口无法传输数据
 - **购买时间**: 2017-01
 - **CPU**: 海思麒麟 955
 - **GPU**: ARM Mali-T880 MP4
@@ -155,7 +156,7 @@ top_img: false
 - **屏幕**: 9.7" LCD (2048x1536)
 - **OS**: iOS 14
 
-### iPad mini 2 日版
+### iPad mini 2 (日版)
 - **购买时间**: 2015-02-25
 - **CPU**: Apple A7
 - **RAM**: 1GB LPDDR3
