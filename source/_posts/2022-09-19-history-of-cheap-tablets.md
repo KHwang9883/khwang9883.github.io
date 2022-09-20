@@ -17,7 +17,7 @@ top_img: false
 
 <img width="480" src="/img/in-post/n12.webp" />
 
-1. 这机子可以从 Android 2.3 一路升到 4.1，甚至贴吧上有人做了 Android 4.2 的刷机包。
+1. 这机子可以从 Android 2.3 一路升到 4.1，甚至贴吧上有人做了 Android 4.2 的刷机包。当年的平板都是通过量产工具线刷升级系统，会强制清除数据，不能 OTA。
 2. RK2918 的 GPU 并不是我们熟悉的 Mali 或者苹果同款 PowerVR，而是叫 Vivante GC800。这款 GPU 过于小众，兼容性问题比较明显。当年的 3D 大型游戏都是分不同 GPU 的数据包，Vivante 的 GPU 用适配 NVIDIA Tegra 处理器的游戏材质包运行相对流畅。（后来瑞芯微的双核 RK3066 改用 Mali-400 MP4，一跃成为最强国产双核）
 3. 这平板有双 Micro-USB，一个负责数据传输（连接电脑用），另一个支持 OTG，平板包装自带 OTG 线，但两个 USB 口都不能充电，充电口是独立的 DC 口，附赠的充电器接头非常容易失灵。
 
