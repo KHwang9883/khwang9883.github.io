@@ -49,7 +49,7 @@ top_img: false
 
 <img src="/img/in-post/alldocube-talk9.webp" />
 
-回到传统 Wi-Fi 平板，晶晨虽然在四核平板芯片的竞争中迟到了，但其四核芯片 Amlogic M802 的规格提升了一个档次——四核 Cortex-A9，最高 2GHz 主频（默认 1.6GHz），Mali-450 MP6 GPU，后来居上，在参数上全面超越了瑞芯微 RK3188。首发这颗芯片的平板是昂达 V975m 四核，可以看到这一阶段的平板已经不只是模仿了苹果，但没完全模仿的程度了，而是可以做到以假乱真。
+回到传统 Wi-Fi 平板，晶晨虽然在四核平板芯片的竞争中迟到了，但其四核芯片 Amlogic M802 的规格提升了一个档次——四核 Cortex-A9，最高 2GHz 主频（默认 1.6GHz），Mali-450 MP6 GPU，使得其后来居上，在参数上全面超越了瑞芯微 RK3188。首发这颗芯片的平板是昂达 V975m 四核，可以看到这一阶段的平板已经不只是模仿了苹果，但没完全模仿的程度了，而是可以做到以假乱真。
 
 <img width="480" src="/img/in-post/onda-v975m.webp" />
 
@@ -59,7 +59,7 @@ Intel 的 Atom（凌动）芯片最初用于上网本，后来针对移动终端
 
 <img width="480" src="/img/in-post/onda-v819w.webp" />
 
-同期 ARM 架构的 Android 平板进入了八核时代，全志 A80 凭借 Cortex-A15 + Cortex-A7 大小核架构再次刷新了国产 Android 平板的性能记录，这是全志平板芯片的巅峰。至于瑞芯微的 RK3288，虽然其 CPU 停留在四核，但采用了当时较新的 Cortex-A17 架构和 Mali-T760 MP4 GPU，也有着不错的性能。Intel 一搅局，全志、瑞芯微的芯片在平板市场的份额显著下降，而 MTK 凭借其通讯技术这一优势在 Android 平板领域占据了一席之地。Intel 芯平板虽然也有 3G 版，但有一部分是借助华为的模块实现的 3G 通信功能（成本更高），另一部分则是采用 Intel 自己的基带。2014 年后期，Intel 发布了全新 Atom 系列，与酷睿一样分为 X3/X5/X7，其中 X3 面向智能手机及通话平板，X5、X7 采用 Cherry Trail 架构，主要面向 Windows 平板。Cherry Trail 架构的性能有不小提升，可以勉强玩玩网游了。平板厂商也开始推出类似 Surface 的二合一设备，平板装上磁吸键盘瞬间变身上网本。这些平板无一例外都使用触点连接键盘，如今一些 Android 平板仍采用这一设计。
+同期 ARM 架构的 Android 平板进入了八核时代，全志 A80 凭借 Cortex-A15 + Cortex-A7 大小核架构再次刷新了国产 Android 平板的性能纪录，这是全志平板芯片的巅峰。至于瑞芯微的 RK3288，虽然其 CPU 停留在四核，但采用了当时较新的 Cortex-A17 架构和 Mali-T760 MP4 GPU，也有着不错的性能。Intel 一搅局，全志、瑞芯微的芯片在平板市场的份额显著下降，而 MTK 凭借其通讯技术这一优势在 Android 平板领域占据了一席之地。Intel 芯平板虽然也有 3G 版，但有一部分是借助华为的模块实现的 3G 通信功能（成本更高），另一部分则是采用 Intel 自己的基带。2014 年后期，Intel 发布了全新 Atom 系列，与酷睿一样分为 X3/X5/X7，其中 X3 面向智能手机及通话平板，X5、X7 采用 Cherry Trail 架构，主要面向 Windows 平板。Cherry Trail 架构的性能有不小提升，可以勉强玩玩网游了。平板厂商也开始推出类似 Surface 的二合一设备，平板装上磁吸键盘瞬间变身上网本。这些平板无一例外都使用触点连接键盘，如今一些 Android 平板仍采用这一设计。
 
 <img width="480" src="/img/in-post/teclast-win10.webp" />
 
