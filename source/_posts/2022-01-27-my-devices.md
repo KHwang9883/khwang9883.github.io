@@ -42,7 +42,7 @@ top_img: false
 - **RAM**: 4GB LPDDR3
 - **ROM**: 64GB eMMC 5.1
 - **屏幕**: 6.44" LCD (1920x1080)
-- **OS**: Android 12.1 (PixelExperience)
+- **OS**: Android 7.1.1 (MIUI 11)
 
 ### 荣耀 V8 高配版
 - **是否主力**: 否
