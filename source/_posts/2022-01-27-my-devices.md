@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-09-13
+- **本文最后更新**：2022-11-01
 - **设备布线图最后更新**：2022-08-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -63,7 +63,7 @@ top_img: false
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
 - **屏幕**: 11" LCD (2000x1200)
-- **OS**: Android 11 (ZUI 13)
+- **OS**: Android 12 (ZUI 14)
 
 ## 非活跃设备
 ### 自组装台式 PC
@@ -73,7 +73,6 @@ top_img: false
 - **GPU**: NVIDIA GeForce GTX 750 Ti (2GB GDDR5)
 - **主板**: 华硕 A58M-E R2.0
 - **RAM**: 8GB DDR3 1600MT/s
-- **SSD**: 闪迪 SSD PLUS 240GB SATA
 - **HDD**: 希捷 ST500DM002 500GB SATA
 - **显示器**: AOC 2217 22" (1680x1050)
 - **OS**: Windows 7 SP1 64-bit
