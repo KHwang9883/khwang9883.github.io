@@ -40,7 +40,7 @@ top_img: false
 - **CPU**: 高通骁龙 625
 - **GPU**: Adreno 506
 - **RAM**: 4GB LPDDR3
-- **ROM**: 64GB eMMC 5.1
+- **ROM**: 64GB eMMC
 - **屏幕**: 6.44" LCD (1920x1080)
 - **OS**: Android 7.1.1 (MIUI 11)
 
@@ -51,7 +51,7 @@ top_img: false
 - **CPU**: 海思麒麟 955
 - **GPU**: ARM Mali-T880 MP4
 - **RAM**: 4GB LPDDR4
-- **ROM**: 64GB eMMC 5.1
+- **ROM**: 64GB eMMC
 - **屏幕**: 5.7" LCD (2560x1440)
 - **OS**: Android 8.0.0 (EMUI 8.0)
 
@@ -77,13 +77,23 @@ top_img: false
 - **显示器**: AOC 2217 22" (1680x1050)
 - **OS**: Windows 7 SP1 64-bit
 
+### 红米 Note 4
+- **不活跃原因**: 电池衰减严重
+- **购买时间**: 2016-10
+- **CPU**: Mediatek Helio X20
+- **GPU**: ARM Mali-T880 MP4
+- **RAM**: 3GB LPDDR3
+- **ROM**: 64GB eMMC
+- **屏幕**: 5.5" LCD (1920x1080)
+- **OS**: Android 6.0 (MIUI 10)
+
 ### 红米 Note 3 双网通
 - **不活跃原因**: 故障（听筒、前置摄像头等不工作）
 - **购买时间**: 2016-01-28
 - **CPU**: Mediatek Helio X10
 - **GPU**: Imagination PowerVR G6200
 - **RAM**: 2GB LPDDR3
-- **ROM**: 16GB eMMC 5.1
+- **ROM**: 16GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
 - **OS**: Android 5.0.2 (MIUI 9)
 
@@ -93,7 +103,7 @@ top_img: false
 - **CPU**: 高通骁龙 410
 - **GPU**: Adreno 306
 - **RAM**: 1GB LPDDR3
-- **ROM**: 8GB eMMC 4.5
+- **ROM**: 8GB eMMC
 - **屏幕**: 4.7" LCD (1280x720)
 - **OS**: Android 10 (LineageOS 17.1)
 
