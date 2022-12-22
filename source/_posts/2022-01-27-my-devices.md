@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-11-01
+- **本文最后更新**：2022-12-23
 - **设备布线图最后更新**：2022-08-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -20,7 +20,7 @@ top_img: false
 - **SSD2**: 铠侠 RC10 1TB NVMe
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 12.1) & WSL (Ubuntu 22.04)
+- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 13) & WSL (Ubuntu 22.04)
 - **OS 2**: 统信 UOS 家庭版
 
 ### Redmi K40
@@ -31,7 +31,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
-- **OS**: Android 12 (MIUI 13)
+- **OS**: Android 13 (MIUI 14)
 
 ### 小米 Max 2
 - **是否主力**: 否
