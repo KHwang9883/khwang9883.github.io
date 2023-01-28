@@ -63,7 +63,7 @@ top_img: false
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
 - **屏幕**: 11" LCD (2000x1200)
-- **OS**: Android 12 (ZUI 14)
+- **OS**: Android 13 (MIUI 14)
 
 ## 非活跃设备
 ### 自组装台式 PC
