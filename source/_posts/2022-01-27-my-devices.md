@@ -107,7 +107,7 @@ top_img: false
 - **RAM**: 1GB LPDDR3
 - **ROM**: 8GB eMMC
 - **屏幕**: 4.7" LCD (1280x720)
-- **OS**: Android 10 (LineageOS 17.1)
+- **OS**: postmarketOS (基于 Alpine GNU/Linux)
 
 ### 中兴 Q301C
 - **不活跃原因**: 硬件严重过时；电池衰减严重
