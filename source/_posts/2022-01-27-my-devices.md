@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2022-12-23
+- **本文最后更新**：2023-02-09
 - **设备布线图最后更新**：2022-08-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -18,10 +18,12 @@ top_img: false
 - **RAM**: 16GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 500GB NVMe
 - **SSD2**: 铠侠 RC10 1TB NVMe
+- **SSD3**: 铠侠 TC10 480GB SATA
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 13) & WSL (Ubuntu 22.04)
-- **OS 2**: 统信 UOS 家庭版
+- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
+- **OS 2**: Arch GNU/Linux (安装于 SSD3)
+- **OS 3**: 统信 UOS 家庭版 22.0 (安装于 SSD1，使用「一键安装」，未单独分区)
 
 ### Redmi K40
 - **是否主力**: 是
@@ -63,7 +65,7 @@ top_img: false
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
 - **屏幕**: 11" LCD (2000x1200)
-- **OS**: Android 13 (MIUI 14)
+- **OS**: Android 12 (ZUI 14)
 
 ## 非活跃设备
 ### 自组装台式 PC
