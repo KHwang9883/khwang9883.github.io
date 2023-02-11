@@ -23,7 +23,6 @@ top_img: false
 - **显示器**: 创维 M271FJ 27" (1920x1080)
 - **OS 1**: Windows 11 Pro 22H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
 - **OS 2**: Arch GNU/Linux (安装于 SSD3)
-- **OS 3**: 统信 UOS 家庭版 22.0 (安装于 SSD1，使用「一键安装」，未单独分区)
 
 ### Redmi K40
 - **是否主力**: 是
