@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2023-02-09
+- **本文最后更新**：2023-02-27
 - **设备布线图最后更新**：2023-02-09
 
 <img src="/img/in-post/device-map.webp" />
@@ -27,18 +27,28 @@ top_img: false
 ### Redmi K40
 - **是否主力**: 是
 - **购买时间**: 2021-06-08
-- **CPU**: 高通骁龙 870
+- **SoC**: 高通骁龙 870
 - **GPU**: Adreno 650
 - **RAM**: 12GB LPDDR5
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
 - **OS**: Android 13 (MIUI 14)
 
+### iPhone 6
+- **是否主力**: 否
+- **备注**: 扬声器音量高时破音；电池续航不稳定
+- **购买时间**: 2023-02-24
+- **SoC**: Apple A8
+- **RAM**: 1GB LPDDR3
+- **ROM**: 32GB eMMC
+- **屏幕**: 4.7" LCD (1334x750)
+- **OS**: iOS 12
+
 ### 小米 Max 2
 - **是否主力**: 否
 - **备注**: 电池续航有衰减
 - **购买时间**: 2017-09-12
-- **CPU**: 高通骁龙 625
+- **SoC**: 高通骁龙 625
 - **GPU**: Adreno 506
 - **RAM**: 4GB LPDDR3
 - **ROM**: 64GB eMMC
@@ -49,7 +59,7 @@ top_img: false
 - **是否主力**: 否
 - **备注**: 由于更换了非官方副板，USB 口无法传输数据；电池续航有衰减
 - **购买时间**: 2017-01
-- **CPU**: 海思麒麟 955
+- **SoC**: 海思麒麟 955
 - **GPU**: ARM Mali-T880 MP4
 - **RAM**: 4GB LPDDR4
 - **ROM**: 64GB eMMC
@@ -59,7 +69,7 @@ top_img: false
 ### 联想小新 Pad Plus
 - **是否主力**: 是
 - **购买时间**: 2022-04-17
-- **CPU**: 高通骁龙 750G
+- **SoC**: 高通骁龙 750G
 - **GPU**: Adreno 619
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
@@ -81,7 +91,7 @@ top_img: false
 ### 红米 Note 4
 - **不活跃原因**: 电池衰减严重
 - **购买时间**: 2016-10
-- **CPU**: Mediatek Helio X20
+- **SoC**: Mediatek Helio X20
 - **GPU**: ARM Mali-T880 MP4
 - **RAM**: 3GB LPDDR3
 - **ROM**: 64GB eMMC
@@ -91,7 +101,7 @@ top_img: false
 ### 红米 Note 3 双网通
 - **不活跃原因**: 故障（听筒、前置摄像头等不工作）
 - **购买时间**: 2016-01-28
-- **CPU**: Mediatek Helio X10
+- **SoC**: Mediatek Helio X10
 - **GPU**: Imagination PowerVR G6200
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
@@ -101,7 +111,7 @@ top_img: false
 ### 红米 2 电信版
 - **不活跃原因**: 故障（触摸按键不工作）
 - **购买时间**: 2015-05-29
-- **CPU**: 高通骁龙 410
+- **SoC**: 高通骁龙 410
 - **GPU**: Adreno 306
 - **RAM**: 1GB LPDDR3
 - **ROM**: 8GB eMMC
@@ -111,7 +121,7 @@ top_img: false
 ### 中兴 Q301C
 - **不活跃原因**: 硬件严重过时；电池衰减严重
 - **购买时间**: 2014-08
-- **CPU**: 高通骁龙 200 (MSM8610)
+- **SoC**: 高通骁龙 200 (MSM8610)
 - **GPU**: Adreno 302
 - **RAM**: 512MB
 - **ROM**: 2GB
@@ -121,7 +131,7 @@ top_img: false
 ### 易百分 YBFA9
 - **不活跃原因**: 山寨产品
 - **购买时间**: 2021-12
-- **CPU**: Mediatek MT6753
+- **SoC**: Mediatek MT6753
 - **GPU**: ARM Mali-T720 MP3
 - **RAM**: 3GB（实际）LPDDR3
 - **ROM**: 64GB eMMC
@@ -131,7 +141,7 @@ top_img: false
 ### 荣耀畅玩平板 2
 - **不活跃原因**: 故障（外屏玻璃破碎）
 - **购买时间**: 2018-02-19
-- **CPU**: Mediatek MT8127
+- **SoC**: Mediatek MT8127
 - **GPU**: ARM Mali-450 MP4
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
@@ -150,7 +160,7 @@ top_img: false
 ### Redmi K20
 - **购买时间**: 2019-11-04
 - **卖出时间**: 2021-06-08
-- **CPU**: 高通骁龙 730
+- **SoC**: 高通骁龙 730
 - **GPU**: Adreno 618
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
@@ -160,7 +170,7 @@ top_img: false
 ### iPad 2018
 - **购买时间**: 2018-06-23
 - **卖出时间**: 2021-06-08
-- **CPU**: Apple A10 Fusion
+- **SoC**: Apple A10 Fusion
 - **RAM**: 2GB LPDDR4
 - **ROM**: 128GB NVMe
 - **屏幕**: 9.7" LCD (2048x1536)
@@ -168,7 +178,7 @@ top_img: false
 
 ### iPad mini 2 (日版)
 - **购买时间**: 2015-02-25
-- **CPU**: Apple A7
+- **SoC**: Apple A7
 - **RAM**: 1GB LPDDR3
 - **ROM**: 32GB eMMC
 - **屏幕**: 7.9" LCD (2048x1536)
@@ -176,7 +186,7 @@ top_img: false
 
 ### 华为 C8816D
 - **购买时间**: 2014-10
-- **CPU**: 高通骁龙 200 (MSM8612)
+- **SoC**: 高通骁龙 200 (MSM8612)
 - **GPU**: Adreno 302
 - **RAM**: 1GB
 - **ROM**: 4GB
@@ -185,7 +195,7 @@ top_img: false
 
 ### 昂达 V702 四核
 - **购买时间**: 2014-09
-- **CPU**: 全志 A33
+- **SoC**: 全志 A33
 - **RAM**: 512MB
 - **ROM**: 8GB
 - **屏幕**: 7" LCD (960x540)
@@ -193,7 +203,7 @@ top_img: false
 
 ### 原道 N90 四核 IPS
 - **购买时间**: 2014-08
-- **CPU**: 瑞芯微 RK3188
+- **SoC**: 瑞芯微 RK3188
 - **RAM**: 1GB
 - **ROM**: 16GB
 - **屏幕**: 9.7" LCD (1024x768)
@@ -201,7 +211,7 @@ top_img: false
 
 ### 中兴 U817
 - **购买时间**: 2014-04
-- **CPU**: Mediatek MT6517
+- **SoC**: Mediatek MT6517
 - **GPU**: PowerVR SGX531
 - **RAM**: 512MB
 - **ROM**: 2GB
@@ -210,7 +220,7 @@ top_img: false
 
 ### 原道 N12
 - **购买时间**: 2012-10-01
-- **CPU**: 瑞芯微 RK2918
+- **SoC**: 瑞芯微 RK2918
 - **RAM**: 512MB DDR3
 - **ROM**: 8GB
 - **屏幕**: 7" LCD (800x480)
