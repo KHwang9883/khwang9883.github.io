@@ -3,7 +3,7 @@ title: "是时候不用 CentOS 了"
 top_img: false
 ---
 
-> 本文仅针对个人服务器，不适用于有一定业务量规模的企业、机构。
+> 本文仅针对个人用途 VPS/服务器，不适用于有一定业务量规模的企业、机构。
 
 CentOS 官方发文称 CentOS Stream 才是 CentOS 项目的未来，在接下来的一年里，将逐步把开发工作的重心从 CentOS Linux 往 CentOS Stream 转移。而 CentOS 8 将于 2021-12-31 EOL。
 
