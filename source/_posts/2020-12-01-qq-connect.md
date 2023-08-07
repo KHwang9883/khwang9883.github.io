@@ -1,5 +1,5 @@
 ---
-title: "申请 QQ 互联开发者资格时撞的坑"
+title: "申请 QQ 互联开发者资格时踩的坑"
 top_img: false
 ---
 
