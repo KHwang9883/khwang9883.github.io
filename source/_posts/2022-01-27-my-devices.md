@@ -55,7 +55,7 @@ top_img: false
 - **屏幕**: 11" LCD (2000x1200)
 - **OS**: Android 12 (ZUI 14)
 
-### Nintendo Switch
+### Nintendo Switch OLED
 - **是否主力**: 是
 - **购买时间**: 2023-10-08
 - **SoC**: NVIDIA Tegra X1
