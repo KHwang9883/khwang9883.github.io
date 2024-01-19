@@ -21,7 +21,7 @@ top_img: false
 - **SSD3**: 铠侠 TC10 480GB SATA
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 22H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
+- **OS 1**: Windows 11 Pro 23H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
 - **OS 2**: Arch GNU/Linux (安装于 SSD3)
 
 ### Redmi K40
@@ -171,7 +171,16 @@ top_img: false
 - **RAM**: 2GB LPDDR4
 - **ROM**: 128GB NVMe
 - **屏幕**: 9.7" LCD (2048x1536)
-- **OS**: iOS 14
+- **OS**: iPadOS 14
+
+### 红米 Note 3 全网通
+- **购买时间**: 2016-06
+- **SoC**: 高通骁龙 650
+- **GPU**: Adreno 510
+- **RAM**: 3GB LPDDR3
+- **ROM**: 32GB eMMC
+- **屏幕**: 5.5" LCD (1920x1080)
+- **OS**: Android 6.0.1 (MIUI 9)
 
 ### iPad mini 2 (日版)
 - **购买时间**: 2015-02-25
