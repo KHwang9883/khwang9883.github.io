@@ -180,7 +180,7 @@ top_img: false
 - **RAM**: 3GB LPDDR3
 - **ROM**: 32GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
-- **OS**: Android 6.0.1 (MIUI 9)
+- **OS**: Android 6.0.1 (MIUI 8)
 
 ### iPad mini 2 (日版)
 - **购买时间**: 2015-02-25
