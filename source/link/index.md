@@ -12,14 +12,7 @@ date: 2020-10-03 21:17:39
 
 本博客友情链接使用 Qexo 一键生成。
 
-如需添加链接或更新，请填写下方申请表，或者 [私聊我](https://kevinh.wang/about/)。
-
-<details>
-<summary>友链申请表</summary>
-<div id="friends-api"></div>
-</details>
-<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","https://qexo.kevinh.wang");</script>
+如需添加链接或更新，请在下方留言，或者 [私聊我](https://kevinh.wang/about/)。
 
 ## 本站信息
 ```
