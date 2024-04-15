@@ -3,7 +3,7 @@ title: "我的设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2024-03-25
+- **本文最后更新**：2024-04-15
 - **设备布线图最后更新**：2024-03-25
 
 <img src="/img/in-post/device-map.webp" />
@@ -21,7 +21,8 @@ top_img: false
 - **SSD3**: 铠侠 TC10 480GB SATA
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS**: Windows 11 Pro 23H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
+- **OS 1**: Windows 11 Pro 23H2, with WSA (Android 13) & WSL (Ubuntu 22.04) (安装于 SSD1)
+- **OS 2**: Arch GNU/Linux (安装于 SSD3)
 
 ### Redmi K40
 - **是否主力**: 是
@@ -31,7 +32,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
-- **OS**: Android 13 (MIUI 14)
+- **OS**: Android 13 (Xiaomi HyperOS)
 
 ### 荣耀 V8 高配版
 - **是否主力**: 否
