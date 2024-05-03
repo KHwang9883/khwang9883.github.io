@@ -16,7 +16,7 @@ top_img: false
 ## Moonlight
 [Moonlight](https://moonlight-stream.org/) 是 GeForce Experience 的 NVIDIA Shield 串流的第三方开源客户端，可以在任意 Moonlight 支持的设备上使用。在使用 Moonlight 之前，需要进入 GeForce Experience 的 SHIELD 设置，打开 GAMESTREAM。接着在 Moonlight 里选择 PC，随后平板屏幕上会出现一个四位数验证码，在 PC 上输入这个验证码并确认，就能连上了。虽然 Moonlight 连接时必须选择一个特定游戏，但其实可以选择 Steam，然后将其最小化，这样做就是一个标准的局域网远程桌面。它的优点是可以直接使用连接了平板的键鼠，相当于一部完整的「云电脑」，平板键盘的触控板也是正常的；缺点是远控需要折腾内网穿透。
 
-（更新：现在有了 [Sunshine](https://github.com/LizardByte/Sunshine) 这一服务端，支持非 N 卡，并且可以直接选择桌面（Desktop），体验良好，解决了 Moonlight+GeForce Experience 的诸多痛点。）
+（更新：现在有了 [Sunshine](https://github.com/LizardByte/Sunshine) 这一服务端，支持非 N 卡，并且可以直接选择桌面（Desktop），体验良好，解决了 Moonlight+GeForce Experience 的诸多痛点。以及我才发现 Moonlight 居然也支持 Wake-on-LAN，好评。）
 
 ## 其他
 我以前也用过不少其他远程桌面软件，例如 TeamViewer、Windows 自带的 RDP 远程桌面。前者没有对局域网环境做优化，而 RDP 我刚试了下没连上，结合以前的使用体验，最终放弃了。
