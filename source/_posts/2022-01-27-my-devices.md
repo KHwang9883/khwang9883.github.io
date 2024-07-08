@@ -4,7 +4,7 @@ top_img: false
 sticky: 100
 ---
 
-- **本文最后更新**：2024-06-06
+- **本文最后更新**：2024-07-08
 - **设备布线图最后更新**：2024-05-04
 
 <img src="/img/in-post/device-map.webp" />
@@ -19,11 +19,9 @@ sticky: 100
 - **RAM**: 16GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 500GB NVMe
 - **SSD2**: 铠侠 RC10 1TB NVMe
-- **SSD3**: 铠侠 TC10 480GB SATA
 - **HDD**: 东芝 DT01ACA300 3TB SATA
 - **显示器**: 创维 M271FJ 27" (1920x1080)
-- **OS 1**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 22.04 LTS) (安装于 SSD1)
-- **OS 2**: Ubuntu 24.04 LTS (安装于 SSD3)
+- **OS**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 22.04 LTS) (安装于 SSD1)
 
 ### Redmi K40
 - **是否主力**: 是
@@ -71,9 +69,10 @@ sticky: 100
 - **GPU**: NVIDIA GeForce GTX 750 Ti (2GB GDDR5)
 - **主板**: 华硕 A58M-E R2.0
 - **RAM**: 8GB DDR3 1600MT/s
+- **SSD**: 铠侠 TC10 480GB SATA
 - **HDD**: 希捷 ST500DM002 500GB SATA
 - **显示器**: AOC 2217 22" (1680x1050)
-- **OS**: Windows 7 SP1 64-bit
+- **OS**: Windows 10 Pro 22H2 64-bit (安装于 SSD)
 
 ### 小米 Max 2
 - **不活跃原因**: 他人使用
