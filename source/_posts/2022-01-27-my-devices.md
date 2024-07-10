@@ -4,8 +4,8 @@ top_img: false
 sticky: 100
 ---
 
-- **本文最后更新**：2024-07-08
-- **设备布线图最后更新**：2024-05-04
+- **本文最后更新**：2024-07-11
+- **设备布线图最后更新**：2024-07-11
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -23,8 +23,18 @@ sticky: 100
 - **显示器**: 创维 M271FJ 27" (1920x1080)
 - **OS**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 22.04 LTS) (安装于 SSD1)
 
-### Redmi K40
+### Redmi K70E
 - **是否主力**: 是
+- **购买时间**: 2024-07-09
+- **SoC**: Mediatek 天玑 8300-Ultra
+- **GPU**: Arm Mali-G615 MC6
+- **RAM**: 12GB LPDDR5x
+- **ROM**: 512GB UFS 4.0
+- **屏幕**: 6.67" AMOLED (2712x1220)
+- **OS**: Android 14 (Xiaomi HyperOS 1.0)
+
+### Redmi K40
+- **是否主力**: 否
 - **购买时间**: 2021-06-08
 - **SoC**: 高通骁龙 870
 - **GPU**: Adreno 650
@@ -32,17 +42,6 @@ sticky: 100
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
 - **OS**: Android 13 (Xiaomi HyperOS 1.0)
-
-### 荣耀 V8 高配版
-- **是否主力**: 否
-- **备注**: 由于更换了非官方副板，USB 口无法传输数据；电池续航有衰减
-- **购买时间**: 2017-01
-- **SoC**: 海思麒麟 955
-- **GPU**: ARM Mali-T880 MP4
-- **RAM**: 4GB LPDDR4
-- **ROM**: 64GB eMMC
-- **屏幕**: 5.7" LCD (2560x1440)
-- **OS**: Android 8.0.0 (EMUI 8.0)
 
 ### 联想小新 Pad Plus
 - **是否主力**: 是
@@ -85,11 +84,22 @@ sticky: 100
 - **屏幕**: 6.44" LCD (1920x1080)
 - **OS**: Android 7.1.1 (MIUI 11)
 
+### 荣耀 V8 高配版
+- **不活跃原因**: 已被淘汰
+- **备注**: 由于更换了非官方副板，USB 口无法传输数据；电池续航有衰减
+- **购买时间**: 2017-01
+- **SoC**: 海思麒麟 955
+- **GPU**: Arm Mali-T880 MP4
+- **RAM**: 4GB LPDDR4
+- **ROM**: 64GB eMMC
+- **屏幕**: 5.7" LCD (2560x1440)
+- **OS**: Android 8.0.0 (EMUI 8.0)
+
 ### 红米 Note 4
 - **不活跃原因**: 电池衰减严重
 - **购买时间**: 2016-10
 - **SoC**: Mediatek Helio X20
-- **GPU**: ARM Mali-T880 MP4
+- **GPU**: Arm Mali-T880 MP4
 - **RAM**: 3GB LPDDR3
 - **ROM**: 64GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
@@ -129,7 +139,7 @@ sticky: 100
 - **不活跃原因**: 山寨产品
 - **购买时间**: 2021-12
 - **SoC**: Mediatek MT6753
-- **GPU**: ARM Mali-T720 MP3
+- **GPU**: Arm Mali-T720 MP3
 - **RAM**: 3GB（实际）LPDDR3
 - **ROM**: 64GB eMMC
 - **屏幕**: 10.1" LCD (1280x800)
@@ -139,7 +149,7 @@ sticky: 100
 - **不活跃原因**: 故障（外屏玻璃破碎）
 - **购买时间**: 2018-02-19
 - **SoC**: Mediatek MT8127
-- **GPU**: ARM Mali-450 MP4
+- **GPU**: Arm Mali-450 MP4
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
 - **屏幕**: 7" LCD (1024x600)
