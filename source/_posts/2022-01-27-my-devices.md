@@ -4,7 +4,7 @@ top_img: false
 sticky: 100
 ---
 
-- **本文最后更新**：2024-07-24
+- **本文最后更新**：2024-09-17
 - **设备布线图最后更新**：2024-07-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -60,6 +60,17 @@ sticky: 100
 - **ROM**: 64GB
 - **屏幕**: 7" OLED (1280x720)
 
+### 红米 Note 4
+- **是否主力**: 否
+- **注释**: 电池衰减严重
+- **购买时间**: 2016-10
+- **SoC**: Mediatek Helio X20
+- **GPU**: Arm Mali-T880 MP4
+- **RAM**: 3GB LPDDR3
+- **ROM**: 64GB eMMC
+- **屏幕**: 5.5" LCD (1920x1080)
+- **OS**: Android 6.0 (MIUI 10)
+
 ## 非活跃设备
 ### 自组装台式 PC
 - **不活跃原因**: 不在常住处
@@ -94,16 +105,6 @@ sticky: 100
 - **ROM**: 64GB eMMC
 - **屏幕**: 5.7" LCD (2560x1440)
 - **OS**: Android 8.0.0 (EMUI 8.0)
-
-### 红米 Note 4
-- **不活跃原因**: 电池衰减严重
-- **购买时间**: 2016-10
-- **SoC**: Mediatek Helio X20
-- **GPU**: Arm Mali-T880 MP4
-- **RAM**: 3GB LPDDR3
-- **ROM**: 64GB eMMC
-- **屏幕**: 5.5" LCD (1920x1080)
-- **OS**: Android 6.0 (MIUI 10)
 
 ### 红米 Note 3 双网通
 - **不活跃原因**: 故障（听筒、前置摄像头等不工作）
