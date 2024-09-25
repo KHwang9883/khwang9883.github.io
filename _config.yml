@@ -104,10 +104,8 @@ plugin:
 - hexo-generator-feed
 # Feed Atom
 feed:
-  type:
-    - rss2
-  path:
-    - feed.xml
+  type: rss2
+  path: feed.xml
   limit: 0
 ## Themes: https://hexo.io/themes/
 theme: stellar
