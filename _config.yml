@@ -108,7 +108,7 @@ feed:
   path: feed.xml
   limit: 0
 ## Themes: https://hexo.io/themes/
-theme: stellar
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
