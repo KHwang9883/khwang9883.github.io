@@ -4,7 +4,7 @@
 
 # Site
 title: Kevin Huang 的小站
-subtitle: ''
+subtitle: '志在卓越，行稳致远'
 description: '一个不太靠谱的「三无人士」'
 keywords: Kevin Huang, K. Huang, K. HWANG, Kevin Hwang, KHwang9883, @KHwang9883, KevinHwang9883, KevinHuang9883, KHuang9883, huangyf9883, 博客, 部落格
 author: Kevin Huang
@@ -110,7 +110,7 @@ feed:
     - feed.xml
   limit: 0
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
