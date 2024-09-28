@@ -99,8 +99,8 @@ menu:
   首页: / || fa fa-home
   archives: /archives/ || fa fa-archive
   友链: /links/ || fas fa-link
-  导航: https://nav.kevinh.wang/ || far fa-compass
   设备: /my-devices/ || fas fa-desktop
+  导航: https://nav.kevinh.wang/ || far fa-compass
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
   #schedule: /schedule/ || fa fa-calendar
