@@ -10,8 +10,8 @@ date: 2020-10-03 21:17:39
         <div class="card">
             <img class="avatar nomediumzoom" src="{{ link.avatar }}" />
             <div class="card-header">
-            <div>{{ link.name }}</div>
-            <div class="info">{{ link.info }}</div>
+            <div class="link-name">{{ link.name }}</div>
+            <div class="link-info">{{ link.info }}</div>
             </div>
         </div>
         </a>
