@@ -26,7 +26,7 @@ toc: false
 
 (Last update: 2024-09-28)
 
-如需添加链接或更新，请在下方留言，或者 [私聊我](https://kevinh.wang/about/)。
+如需添加链接或更新，请在评论区留言，或通过下列联系方式私信我。
 
 ## 本站信息
 ```
@@ -35,3 +35,11 @@ toc: false
 简介：一个不太靠谱的「三无人士」
 头像：Gravatar 头像 (huangyf9883@gmail.com)
 ```
+
+## 联系方式
+- E-mail: huangyf9883 (at) gmail (dot) com
+- [酷安](http://www.coolapk.com/u/497671)
+- [微博](https://weibo.com/huangyf9883)
+- [Telegram](https://t.me/KHwang9883)
+- [bilibili](https://space.bilibili.com/13215010)
+- ~~[贴吧](https://tieba.baidu.com/home/main?un=newlife2017)~~
