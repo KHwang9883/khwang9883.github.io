@@ -9,7 +9,7 @@ top_img: false
 <img src="/img/in-post/device-map.webp" />
 
 ## 电脑
-### 自组装台式机
+### 自组装台式机 (2020)
 - **状态**: 主力电脑
 - **组装时间**: 2020-06-09
 - **CPU**: AMD Ryzen 5 3500X
@@ -24,7 +24,7 @@ top_img: false
 - **鼠标**: 联想 Howard 蓝牙无线双模鼠标
 - **OS**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 22.04 LTS) (安装于 SSD1)
 
-### 自组装台式机
+### 自组装台式机 (2014)
 - **状态**: 不在常住处
 - **组装时间**: 2014-11
 - **CPU**: AMD Athlon X4 760K
