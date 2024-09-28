@@ -34,7 +34,7 @@ menubar:
       theme: '#F44336'
       icon: solar:chat-square-like-bold-duotone
       title: 友链
-      url: /link/
+      url: /friends/
     - id: nav
       theme: '#FA6400'
       icon: solar:planet-bold-duotone

@@ -4,7 +4,7 @@ top_img: false
 sticky: 100
 ---
 
-- **本文最后更新**：2024-09-17
+- **本文最后更新**：2024-09-28
 - **设备布线图最后更新**：2024-07-24
 
 <img src="/img/in-post/device-map.webp" />
@@ -124,7 +124,17 @@ sticky: 100
 - **RAM**: 1GB LPDDR3
 - **ROM**: 8GB eMMC
 - **屏幕**: 4.7" LCD (1280x720)
-- **OS**: Mobian (Debian GNU/Linux 12 Bookworm)
+- **OS**: Android 10 (LineageOS 17.1)
+
+### 红米 1S 电信版
+- **不活跃原因**: 外屏碎
+- **购买时间**: 2014-07
+- **SoC**: 高通骁龙 400
+- **GPU**: Adreno 305
+- **RAM**: 1GB LPDDR3
+- **ROM**: 8GB eMMC
+- **屏幕**: 4.7" LCD (1280x720)
+- **OS**: Android 7.1.2 (魔趣)
 
 ### 中兴 Q301C
 - **不活跃原因**: 硬件严重过时；电池衰减严重
