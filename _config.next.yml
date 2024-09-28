@@ -14,7 +14,7 @@ cache:
   enable: true
 
 # Remove unnecessary files after hexo generate.
-minify: false
+minify: true
 
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
@@ -69,7 +69,7 @@ creative_commons:
   # Available values: big | small
   size: small
   sidebar: false
-  post: false
+  post: true
   # You can set a language value if you prefer a translated version of CC license, e.g. deed.zh
   # CC licenses are available in 39 languages, you can find the specific and correct abbreviation you need on https://creativecommons.org
   language:
@@ -97,7 +97,7 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   首页: / || fa fa-home
-  归档: /archive/ || fa fa-archive
+  归档: /archives/ || fa fa-archive
   友链: /links/ || fas fa-link
   导航: https://nav.kevinh.wang/ || far fa-compass
   设备: /my-devices/ || fas fa-desktop
