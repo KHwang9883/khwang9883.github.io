@@ -2,6 +2,7 @@
 title: 关于
 date: 2020-10-03 22:36:53
 type: "about"
+toc: false
 ---
 ## 我
 - 一个不太靠谱的「三无人士」
