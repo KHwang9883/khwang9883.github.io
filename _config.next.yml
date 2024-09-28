@@ -97,7 +97,7 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   首页: / || fa fa-home
-  归档: /archives/ || fa fa-archive
+  archives: /archives/ || fa fa-archive
   友链: /links/ || fas fa-link
   导航: https://nav.kevinh.wang/ || far fa-compass
   设备: /my-devices/ || fas fa-desktop
@@ -301,7 +301,7 @@ related_posts:
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
 post_edit:
   enable: false
-  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name # Link for view source
+  url: https://github.com/KHwang9883/khwang9883.github.io/tree/main/source/_posts # Link for view source
   #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
@@ -541,7 +541,7 @@ mermaid:
   enable: false
   # Available themes: default | dark | forest | neutral
   theme:
-    light: forest
+    light: default
     dark: dark
 
 # WaveDrom tag
@@ -598,7 +598,7 @@ mediumzoom: false
 
 # Vanilla JavaScript plugin for lazyloading images.
 # For more information: https://apoorv.pro/lozad.js/demo/
-lazyload: false
+lazyload: true
 
 # Automatically insert whitespace between CJK and half-width characters.
 # For more information: https://github.com/vinta/pangu.js
@@ -609,12 +609,12 @@ pangu: false
 # For more information: https://getquick.link
 # Front-matter variable (nonsupport home archive).
 quicklink:
-  enable: false
+  enable: true
 
   # Home page and archive page can be controlled through home and archive options below.
   # This configuration item is independent of `enable`.
-  home: false
-  archive: false
+  home: true
+  archive: true
 
   # Default (true) will initialize quicklink after the load event fires.
   delay: true
