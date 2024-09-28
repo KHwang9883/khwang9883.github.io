@@ -15,11 +15,6 @@ date: 2020-10-03 21:17:39
 {% endfor %}
 </div>
 
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
-<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://qexo.kevinh.wang")</script>
-
 (Last update: 2024-09-28)
 
 如需添加链接或更新，请在下方留言，或者 [私聊我](https://kevinh.wang/about/)。
