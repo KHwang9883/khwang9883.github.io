@@ -112,8 +112,8 @@ top_img: false
 - **OS**: Android 8.0.0 (EMUI 8.0)
 
 ### 红米 Note 4
-- **状态**: 安装了 Linux Deploy，运行 Debian 12
-- **注释**: 电池衰减严重
+- **状态**: 闲置
+- **备注**: 安装了 Linux Deploy，运行 Debian 12；电池衰减严重
 - **购买时间**: 2016-10
 - **SoC**: Mediatek Helio X20
 - **GPU**: Arm Mali-T880 MP4
