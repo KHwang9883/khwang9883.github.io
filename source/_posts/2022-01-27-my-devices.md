@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2024-10-31
+- **本文最后更新**：2024-11-15
 - **设备布线图最后更新**：2024-09-29
 
 <img src="/img/in-post/device-map.webp" />
@@ -66,7 +66,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.0
 - **屏幕**: 6.67" AMOLED (2712x1220)
-- **OS**: Android 14 (Xiaomi HyperOS 1.0)
+- **OS**: Android 15 (Xiaomi HyperOS 2.0)
 
 ### Redmi K40
 - **状态**: 备用机
@@ -303,7 +303,7 @@ top_img: false
 ## 音频设备
 - `Redmi Buds 6 活力版`
 - `小米有线耳机`
-- `Xiaomi 双磁超动态单元耳机`
+- ~~`Xiaomi 双磁超动态单元耳机`~~
 - `小米随身蓝牙音箱`
 
 ## 充电设备（单独购买的）
