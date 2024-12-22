@@ -70,7 +70,7 @@ top_img: false
 
 ### Redmi Note 9 5G
 - **状态**: 备用机
-- **购买时间**: 2022-01
+- **购买时间**: 2021-12-27
 - **SoC**: Mediatek 天玑 800U
 - **GPU**: Arm Mali-G57 MC3
 - **RAM**: 8GB LPDDR4x
