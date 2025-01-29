@@ -48,7 +48,7 @@ remotePort = 9527
 
 保存即可。
 
-**如果在房主端配置了 token**，使用 nano/vim 或者 WinSCP 自带的编辑器打开 VPS 端的 `frps.ini` 或 `frps.toml`，把上面的 `token = xxxxx`（ini）/ `auth.token = "xxxxx"`（toml）复制到配置文件中，保存即可。
+**如果在房主端配置了 token**，请使用文本编辑器打开 VPS 端的 `frps.ini` 或 `frps.toml`，把上面的 `token = xxxxx`（ini）/ `auth.token = "xxxxx"`（toml）复制到配置文件中，保存即可。
 
 ## 配置 VPS 安全组（重要）
 如果你的 VPS 有安全组，请将 TCP 端口 7000、9527 放开。
