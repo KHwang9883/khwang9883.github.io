@@ -50,8 +50,15 @@ remotePort = 9527
 
 **如果在房主端配置了 token**，请使用文本编辑器打开 VPS 端的 `frps.ini` 或 `frps.toml`，把上面的 `token = xxxxx`（ini）/ `auth.token = "xxxxx"`（toml）复制到配置文件中，保存即可。
 
-## 配置 VPS 安全组（重要）
+## 配置 VPS 安全组及防火墙（重要）
 如果你的 VPS 有安全组，请将 TCP 端口 7000、9527 放开。
+
+部分机器可能需要配置防火墙。在我的 VPS 上安装有 ufw，所以使用以下命令：
+
+```
+ufw allow 7000/tcp
+ufw allow 9527/tcp
+```
 
 ## 运行 frp
 房主端建议写一个批处理，这样前台不会有 cmd 窗口：
