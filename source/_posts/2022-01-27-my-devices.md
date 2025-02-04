@@ -3,8 +3,8 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2025-01-04
-- **设备布线图最后更新**：2024-12-18
+- **本文最后更新**：2025-02-04
+- **设备布线图最后更新**：2025-02-04
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -15,7 +15,7 @@ top_img: false
 - **CPU**: AMD Ryzen 5 3500X
 - **GPU**: NVIDIA GeForce GTX 1650 SUPER (4GB GDDR6)
 - **主板**: 微星 B450M MORTAR MAX
-- **RAM**: 16GB DDR4 3200MT/s
+- **RAM**: 32GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 500GB NVMe
 - **SSD2**: 铠侠 RC10 1TB NVMe
 - **HDD**: 东芝 DT01ACA300 3TB
@@ -306,8 +306,13 @@ top_img: false
 
 ### 手柄/控制器
 - `盖世小鸡 启明星 游戏手柄`
-- `北通阿修罗 SE`
+- `北通阿修罗 SE 有线手柄`
 - `BSP D11 拉伸手柄`
+
+## 穿戴设备
+### Redmi 手环 3
+- **购买时间**: 2025-02-04
+- **OS**: Xiaomi HyperOS
 
 ## 音频设备
 - `Redmi Buds 6 活力版`
