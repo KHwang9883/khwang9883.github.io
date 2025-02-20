@@ -3,8 +3,8 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2025-02-04
-- **设备布线图最后更新**：2025-02-04
+- **本文最后更新**：2025-02-20
+- **设备布线图最后更新**：2025-02-20
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -15,9 +15,9 @@ top_img: false
 - **CPU**: AMD Ryzen 5 3500X
 - **GPU**: NVIDIA GeForce GTX 1650 SUPER (4GB GDDR6)
 - **主板**: 微星 B450M MORTAR MAX
-- **RAM**: 32GB DDR4 3200MT/s
-- **SSD1**: 铠侠 RC10 500GB NVMe
-- **SSD2**: 铠侠 RC10 1TB NVMe
+- **RAM**: 光威 32GB DDR4 3200MT/s
+- **SSD1**: 铠侠 RC10 1TB NVMe
+- **SSD2**: 铠侠 RC20 2TB NVMe
 - **HDD**: 东芝 DT01ACA300 3TB
 - **显示器**: 创维 M271FJ 27" (1920x1080)
 - **键盘**: 达尔优 DK100 青轴
@@ -49,6 +49,7 @@ top_img: false
 - **OS**: Windows 8.1 32-bit
 
 ### 存储设备
+- `铠侠 RC10` 500GB + `ITGZ M.2 固态移动硬盘盒`
 - `WD Elements` 1TB
 - `SanDisk CZ73` 64GB
 - `SanDisk CZ73` 32GB
