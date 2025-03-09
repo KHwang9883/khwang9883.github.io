@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2025-02-26
+- **本文最后更新**：2025-03-10
 - **设备布线图最后更新**：2025-02-20
 
 <img src="/img/in-post/device-map.webp" />
@@ -23,7 +23,7 @@ top_img: false
 - **键盘**: 达尔优 DK100 青轴
 - **鼠标**: 联想 Howard 蓝牙无线双模鼠标
 - **OS1**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 24.04 LTS) (安装于 SSD1)
-- **OS2**: deepin 23 (安装于 SSD1)
+- **OS2**: Ubuntu 24.04 LTS (安装于 SSD1)
 
 ### 自组装台式机 (2014)
 - **状态**: 不在常住处
