@@ -3,8 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **本文最后更新**：2025-03-10
-- **设备布线图最后更新**：2025-02-20
+- **最后更新**：2025-05-03
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -12,8 +11,8 @@ top_img: false
 ### 自组装台式机 (2020)
 - **状态**: 主力电脑
 - **组装时间**: 2020-06-09
-- **CPU**: AMD Ryzen 5 3500X
-- **GPU**: NVIDIA GeForce GTX 1650 SUPER (4GB GDDR6)
+- **CPU**: AMD Ryzen 7 5700X
+- **GPU**: NVIDIA GeForce RTX 3050 (8GB GDDR6)
 - **主板**: 微星 B450M MORTAR MAX
 - **RAM**: 光威 32GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 1TB NVMe
@@ -21,7 +20,7 @@ top_img: false
 - **HDD**: 东芝 DT01ACA300 3TB
 - **显示器**: 创维 M271FJ 27" (1920x1080)
 - **键盘**: 达尔优 DK100 青轴
-- **鼠标**: 联想 Howard 蓝牙无线双模鼠标
+- **鼠标**: 雷蛇 炼狱蝰蛇标准版
 - **OS1**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 24.04 LTS) (安装于 SSD1)
 - **OS2**: Ubuntu 24.04 LTS (安装于 SSD1)
 
@@ -68,7 +67,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.0
 - **屏幕**: 6.67" AMOLED (2712x1220)
-- **OS**: Android 15 (Xiaomi HyperOS 2.0)
+- **OS**: Android 15 (Xiaomi HyperOS 2)
 
 ### Redmi Note 9 5G
 - **状态**: 备用机
@@ -88,7 +87,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
-- **OS**: Android 13 (Xiaomi HyperOS 1.0)
+- **OS**: Android 13 (Xiaomi HyperOS 1)
 
 ### Redmi K20
 - **状态**: 卖掉了
@@ -125,7 +124,7 @@ top_img: false
 
 ### 红米 Note 4
 - **状态**: 闲置
-- **备注**: 安装了 Linux Deploy，运行 Debian 12；电池衰减严重
+- **备注**: 电池衰减严重
 - **购买时间**: 2016-10
 - **SoC**: Mediatek Helio X20
 - **GPU**: Arm Mali-T880 MP4
@@ -304,11 +303,12 @@ top_img: false
 - **SoC**: NVIDIA Tegra X1
 - **ROM**: 64GB
 - **屏幕**: 7" OLED (1280x720)
-- **备注**: 安装了 128GB 的 SD 卡
+- **备注**: 安装了 128GB 的 microSD 卡
 
 ### 手柄/控制器
-- `盖世小鸡 启明星 游戏手柄`
-- `北通阿修罗 SE 有线手柄`
+- `盖世小鸡 启明星` 辉光白
+- `盖世小鸡 启明星` 深空紫
+- `北通阿修罗 SE`
 - `BSP D11 拉伸手柄`
 
 ## 穿戴设备
@@ -317,12 +317,14 @@ top_img: false
 - **OS**: Xiaomi HyperOS
 
 ## 音频设备
+- `REDMI Buds 7S`
 - `Redmi Buds 6 活力版`
-- `小米有线耳机`
-- ~~`Xiaomi 双磁超动态单元耳机`~~: 给我妈了
+- ~~`小米有线耳机`~~: 左耳声音小
+- `Xiaomi 双磁超动态单元耳机`
 - `小米随身蓝牙音箱`
 
 ## 充电设备（单独购买的）
+- `CUKTECH 电能块自带线 CP25` 20000mAh
 - `CUKTECH 氮化镓充电器` 67W 2C1A
 - `新小米移动电源 2` 10000mAh
 
