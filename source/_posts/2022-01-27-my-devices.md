@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-05-03
+- **最后更新**：2025-05-17
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -22,10 +22,10 @@ top_img: false
 - **键盘**: 达尔优 DK100 青轴
 - **鼠标**: 雷蛇 炼狱蝰蛇标准版
 - **OS1**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 24.04 LTS) (安装于 SSD1)
-- **OS2**: Ubuntu 24.04 LTS (安装于 SSD1)
+- **OS2**: Bazzite (安装于 SSD1)
 
 ### 自组装台式机 (2014)
-- **状态**: 不在常住处
+- **状态**: 不在常住处，不能用了
 - **组装时间**: 2014-11
 - **CPU**: AMD Athlon X4 760K
 - **GPU**: NVIDIA GeForce GTX 750 Ti (2GB GDDR5)
