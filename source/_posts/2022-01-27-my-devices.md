@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-05-17
+- **最后更新**：2025-06-24
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -17,12 +17,13 @@ top_img: false
 - **RAM**: 光威 32GB DDR4 3200MT/s
 - **SSD1**: 铠侠 RC10 1TB NVMe
 - **SSD2**: 铠侠 RC20 2TB NVMe
+- **SSD3**: 铠侠 TC10 480GB SATA
 - **HDD**: 东芝 DT01ACA300 3TB
 - **显示器**: 创维 M271FJ 27" (1920x1080)
 - **键盘**: 达尔优 DK100 青轴
 - **鼠标**: 雷蛇 炼狱蝰蛇标准版
-- **OS1**: Windows 11 Pro 24H2, with WSA (Android 13) & WSL (Ubuntu 24.04 LTS) (安装于 SSD1)
-- **OS2**: Bazzite (安装于 SSD1)
+- **OS1**: Windows 11 Pro 24H2 (安装于 SSD1)
+- **OS2**: Arch Linux (安装于 SSD3)
 
 ### 自组装台式机 (2014)
 - **状态**: 不在常住处，不能用了
@@ -31,12 +32,10 @@ top_img: false
 - **GPU**: NVIDIA GeForce GTX 750 Ti (2GB GDDR5)
 - **主板**: 华硕 A58M-E R2.0
 - **RAM**: 8GB DDR3 1600MT/s
-- **SSD**: 铠侠 TC10 480GB SATA
 - **HDD**: 希捷 ST500DM002 500GB
 - **显示器**: AOC 2217 22" (1680x1050)
 - **键盘**: 联想 SK-9500
 - **鼠标**: 联想 M120Pro
-- **OS**: Windows 10 Pro 22H2 64-bit (安装于 SSD)
 
 ### HP ProBook 4421s
 - **状态**: 会突然自动关机，故闲置
