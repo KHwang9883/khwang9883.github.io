@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-06-24
+- **最后更新**：2025-06-28
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -317,7 +317,7 @@ top_img: false
 
 ## 音频设备
 - `REDMI Buds 7S`
-- `Redmi Buds 6 活力版`
+- `Redmi Buds 6 活力版`: 给我妈了
 - ~~`小米有线耳机`~~: 左耳声音小
 - `Xiaomi 双磁超动态单元耳机`
 - `小米随身蓝牙音箱`
