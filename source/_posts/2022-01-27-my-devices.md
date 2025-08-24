@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-08-22
+- **最后更新**：2025-08-24
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -22,6 +22,15 @@ top_img: false
 - **键盘**: 达尔优 DK100 青轴
 - **鼠标**: 雷蛇 炼狱蝰蛇标准版
 - **OS**: Windows 11 Pro 24H2 (安装于 SSD1)
+
+### 网心云 OEC-Turbo
+- **状态**: 轻 NAS
+- **购买时间**: 2025-08-19
+- **CPU**: Rockchip RK3566
+- **RAM**: 4GB
+- **ROM**: 8GB eMMC
+- **SSD**: 铠侠 TC10 480GB SATA
+- **OS**: Armbian Debian 12 + CasaOS
 
 ### 自组装台式机 (2014)
 - **状态**: 不在常住处，不能用了
