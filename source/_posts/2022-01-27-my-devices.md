@@ -7,7 +7,7 @@ top_img: false
 
 <img src="/img/in-post/device-map.webp" />
 
-## 电脑
+## 计算机
 ### 自组装台式机 (2020)
 - **状态**: 主力电脑
 - **组装时间**: 2020-06-09
