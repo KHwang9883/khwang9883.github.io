@@ -9,7 +9,7 @@ description: '创造价值，开心就好'
 keywords: Kevin Huang, K. Huang, K. HWANG, Kevin Hwang, KHwang9883, @KHwang9883, KevinHwang9883, KevinHuang9883, KHuang9883, huangyf9883, 博客, 部落格
 author: Kevin Huang
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
