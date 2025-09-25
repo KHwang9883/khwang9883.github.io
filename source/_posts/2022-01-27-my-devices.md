@@ -3,13 +3,13 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-08-24
+- **最后更新**：2025-09-26
 
 <img src="/img/in-post/device-map.webp" />
 
 ## 计算机
 ### 自组装台式机 (2020)
-- **状态**: 主力电脑
+- **用途**: 主力电脑
 - **组装时间**: 2020-06-09
 - **CPU**: AMD Ryzen 7 5700X
 - **GPU**: NVIDIA GeForce RTX 3050 (8GB GDDR6)
@@ -24,7 +24,7 @@ top_img: false
 - **OS**: Windows 11 Pro 24H2 (安装于 SSD1)
 
 ### 网心云 OEC-Turbo
-- **状态**: 轻 NAS
+- **用途**: 轻 NAS
 - **购买时间**: 2025-08-19
 - **CPU**: Rockchip RK3566
 - **RAM**: 4GB
@@ -327,7 +327,8 @@ top_img: false
 - `Redmi Buds 6 活力版`: 给我妈了
 - ~~`小米有线耳机`~~: 左耳声音小
 - `Xiaomi 双磁超动态单元耳机`
-- `小米随身蓝牙音箱`
+- `小米随身蓝牙音箱`: 给家里了
+- `异能者有线长条音箱 SAW1`
 
 ## 充电设备（单独购买的）
 - `CUKTECH 电能块自带线 CP25` 20000mAh
