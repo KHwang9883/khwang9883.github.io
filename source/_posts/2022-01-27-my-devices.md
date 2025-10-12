@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-10-02
+- **最后更新**：2025-10-12
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -68,17 +68,17 @@ top_img: false
 ### Redmi K70E
 - **状态**: 主力机
 - **购买时间**: 2024-07-09
-- **SoC**: Mediatek 天玑 8300-Ultra
+- **SoC**: MediaTek 天玑 8300-Ultra
 - **GPU**: Arm Mali-G615 MC6
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.0
 - **屏幕**: 6.67" AMOLED (2712x1220)
-- **OS**: Android 15 (Xiaomi HyperOS 2)
+- **OS**: Android 16 (Xiaomi HyperOS 3)
 
 ### Redmi Note 9 5G
 - **状态**: 备用机
 - **购买时间**: 2021-12-27
-- **SoC**: Mediatek 天玑 800U
+- **SoC**: MediaTek 天玑 800U
 - **GPU**: Arm Mali-G57 MC3
 - **RAM**: 8GB LPDDR4x
 - **ROM**: 128GB UFS 2.2
@@ -96,7 +96,7 @@ top_img: false
 - **OS**: Android 13 (Xiaomi HyperOS 1)
 
 ### Redmi K20
-- **状态**: 卖掉了
+- **状态**: 转转回收
 - **购买时间**: 2019-11-04
 - **卖出时间**: 2021-06-08
 - **SoC**: 高通骁龙 730
@@ -132,7 +132,7 @@ top_img: false
 - **状态**: 闲置
 - **备注**: 电池衰减严重
 - **购买时间**: 2016-10
-- **SoC**: Mediatek Helio X20
+- **SoC**: MediaTek Helio X20
 - **GPU**: Arm Mali-T880 MP4
 - **RAM**: 3GB LPDDR3
 - **ROM**: 64GB eMMC
@@ -154,7 +154,7 @@ top_img: false
 - **状态**: 闲置
 - **备注**: 听筒、前置摄像头等不工作
 - **购买时间**: 2016-01-28
-- **SoC**: Mediatek Helio X10
+- **SoC**: MediaTek Helio X10
 - **GPU**: Imagination PowerVR G6200
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
@@ -207,7 +207,7 @@ top_img: false
 ### 中兴 U817
 - **状态**: 碎屏，触控失灵，被我扔了
 - **购买时间**: 2014-04
-- **SoC**: Mediatek MT6517
+- **SoC**: MediaTek MT6517
 - **GPU**: PowerVR SGX531
 - **RAM**: 512MB
 - **ROM**: 2GB
@@ -224,8 +224,18 @@ top_img: false
 - `酷派 T60`: 闲置
 
 ## 平板电脑
-### 联想小新 Pad Plus
+### REDMI K Pad
 - **状态**: 主力机
+- **购买时间**: 2025-10-09
+- **SoC**: MediaTek 天玑 9400+
+- **GPU**: Arm Immortalis-G925 MC12
+- **RAM**: 12GB LPDDR5x
+- **ROM**: 512GB UFS 4.1
+- **屏幕**: 8.8" LCD (3008x1880)
+- **OS**: Android 15 (Xiaomi HyperOS 2)
+
+### 联想小新 Pad Plus
+- **状态**: 现主要用于副屏
 - **购买时间**: 2022-04-17
 - **SoC**: 高通骁龙 750G
 - **GPU**: Adreno 619
@@ -235,10 +245,10 @@ top_img: false
 - **OS**: Android 12 (ZUI 14)
 
 ### 易百分 YBFA9
-- **状态**: 他人使用
+- **状态**: 他人使用，电池衰减严重
 - **备注**: [实际是山寨产品](https://kevinh.wang/fake-phone/)
 - **购买时间**: 2021-12
-- **SoC**: Mediatek MT6753
+- **SoC**: MediaTek MT6753
 - **GPU**: Arm Mali-T720 MP3
 - **RAM**: 3GB（实际）LPDDR3
 - **ROM**: 64GB eMMC
@@ -246,7 +256,7 @@ top_img: false
 - **OS**: Android 8.1
 
 ### iPad 2018
-- **状态**: 卖掉了
+- **状态**: 转转回收
 - **购买时间**: 2018-06-23
 - **卖出时间**: 2021-06-08
 - **SoC**: Apple A10 Fusion
@@ -259,7 +269,7 @@ top_img: false
 - **状态**: 闲置
 - **备注**: 外屏玻璃破碎，被我拆坏了
 - **购买时间**: 2018-02-19
-- **SoC**: Mediatek MT8127
+- **SoC**: MediaTek MT8127
 - **GPU**: Arm Mali-450 MP4
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
@@ -305,11 +315,12 @@ top_img: false
 
 ## 游戏设备
 ### Nintendo Switch OLED
+- **状态**: 淘宝店铺回收
 - **购买时间**: 2023-10-08
+- **卖出时间**: 2025-10-06
 - **SoC**: NVIDIA Tegra X1
 - **ROM**: 64GB
 - **屏幕**: 7" OLED (1280x720)
-- **备注**: 安装了 128GB 的 microSD 卡
 
 ### 手柄/控制器
 - `盖世小鸡 启明星` 辉光白
@@ -337,7 +348,7 @@ top_img: false
 
 ## 其他
 ### 树莓派 4B
-- **状态**: 卖掉了
+- **状态**: 闲鱼二手卖出
 - **购买时间**: 2020-12-07
 - **卖出时间**: 2022-05-14
 - **CPU**: Quad Core Cortex-A72
