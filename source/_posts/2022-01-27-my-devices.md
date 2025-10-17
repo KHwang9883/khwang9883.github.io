@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-10-12
+- **最后更新**：2025-10-18
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -152,7 +152,7 @@ top_img: false
 
 ### 红米 Note 3 双网通
 - **状态**: 闲置
-- **备注**: 听筒、前置摄像头等不工作
+- **备注**: 电池衰减严重，听筒、前置摄像头等不工作，指纹识别排线被我不小心扯断了
 - **购买时间**: 2016-01-28
 - **SoC**: MediaTek Helio X10
 - **GPU**: Imagination PowerVR G6200
@@ -235,7 +235,7 @@ top_img: false
 - **OS**: Android 15 (Xiaomi HyperOS 2)
 
 ### 联想小新 Pad Plus
-- **状态**: 现主要用于副屏
+- **状态**: 给家人用
 - **购买时间**: 2022-04-17
 - **SoC**: 高通骁龙 750G
 - **GPU**: Adreno 619
@@ -245,7 +245,7 @@ top_img: false
 - **OS**: Android 12 (ZUI 14)
 
 ### 易百分 YBFA9
-- **状态**: 他人使用，电池衰减严重
+- **状态**: 闲置，电池衰减严重
 - **备注**: [实际是山寨产品](https://kevinh.wang/fake-phone/)
 - **购买时间**: 2021-12
 - **SoC**: MediaTek MT6753
@@ -267,7 +267,7 @@ top_img: false
 
 ### 荣耀畅玩平板 2
 - **状态**: 闲置
-- **备注**: 外屏玻璃破碎，被我拆坏了
+- **备注**: 外屏玻璃破碎
 - **购买时间**: 2018-02-19
 - **SoC**: MediaTek MT8127
 - **GPU**: Arm Mali-450 MP4
