@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-10-18
+- **最后更新**：2025-10-28
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -232,7 +232,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.1
 - **屏幕**: 8.8" LCD (3008x1880)
-- **OS**: Android 15 (Xiaomi HyperOS 2)
+- **OS**: Android 16 (Xiaomi HyperOS 3)
 
 ### 联想小新 Pad Plus
 - **状态**: 给家人用
