@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-10-28
+- **最后更新**：2025-11-27
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -30,7 +30,7 @@ top_img: false
 - **RAM**: 4GB
 - **ROM**: 8GB eMMC
 - **SSD**: 铠侠 TC10 480GB SATA
-- **OS**: Armbian Debian 12 + CasaOS
+- **OS**: Armbian (Debian 13)
 
 ### 自组装台式机 (2014)
 - **状态**: 不在常住处，不能用了
