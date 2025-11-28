@@ -24,12 +24,12 @@ top_img: false
 - **OS**: Windows 11 Pro 25H2 (安装于 SSD1)
 
 ### 网心云 OEC-Turbo
-- **用途**: 轻 NAS
+- **状态**: 卖掉了
 - **购买时间**: 2025-08-19
+- **卖出时间**: 2025-11-28
 - **CPU**: Rockchip RK3566
 - **RAM**: 4GB
 - **ROM**: 8GB eMMC
-- **SSD**: 铠侠 TC10 480GB SATA
 - **OS**: Armbian (Debian 13)
 
 ### 自组装台式机 (2014)
