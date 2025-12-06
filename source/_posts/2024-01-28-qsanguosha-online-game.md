@@ -8,7 +8,7 @@ top_img: false
 - frpc（服务端/房主端）/ frps（VPS 端）
 
 ## 为什么不用 Sakura frp 或类似服务？
-因为我试了好几次都搭不起来。并且 Sakura frp 使用国内节点需要实名认证（虽然我认证过了，但可能有人会在乎）
+因为我试了好几次都搭不起来。并且 Sakura frp 使用国内节点需要实名认证（虽然我认证过了，但可能有人会介意）
 
 ## 下载 frp
 到 GitHub 的 frp [Release 页](https://github.com/fatedier/frp/releases) 下载。房主端下载 Windows amd64 版；VPS 端根据 CPU 架构选择相应的 Linux 版（一般都是 amd64），使用 wget 下载到方便的路径下（我这边下载到了 `/opt`），解压，之后会生成类似 `frp_0.53.2_linux_amd64` 的目录，建议重命名为 `frp`
