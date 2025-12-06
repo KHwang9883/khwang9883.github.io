@@ -91,7 +91,7 @@ Windows 10 经过几次大更新后，配置要求越来越高，亮机卡的游
 
 2019 年 4 月，我建立了自己的博客。10 月，我凭借对建站这一块的摸索，建立了 Mario Forever 社区，这期间我开始接触 GNU/Linux 命令行。一开始我真的什么都不懂，就用了 [OneinStack](https://oneinstack.com/) 一键包，服务器软件没有选 nginx，偏偏看了不知道是谁写的教程选了 Apache；PHP 扩展一个都没装，在安装 MediaWiki 时踩了不少坑；不会使用 `service xxx reload` 这种命令，要么直接重启服务器（还是从阿里云控制台重启的，其实只要 `reboot` 就行），要么 `service xxx restart`（并不优雅）；网站搭了半年多后才意识到备份的重要性，一年后才学会将网站数据备份到外部空间例如对象存储，并彻底不用密码登录 SSH……虽然做的时候自我感觉良好但其实我是真的菜。
 
-2020 年 6 月，我第一次 [亲自组装了台式机](https://kevinh.wang/new-pc/)，并添置了第二块 SSD、无线网卡等部件。近两年，我认识了更多 GNU/Linux 发行版，如 Debian、Fedora、Arch、Manjaro 等，这些发行版我都安装了一遍，但都由于无法满足我的使用需求而被我放弃。由于 CentOS 8 提前结束支持，我把 VPS 的系统换成了 Debian，保持至今。2020 年 12 月，我买了树莓派 4B，虽然没能避免吃灰的命运（笑），但我暂时没有把它卖掉的打算，说不定未来会有用的（更新：我还是把它卖掉了）。
+2020 年 6 月，我第一次 [亲自组装了台式机](https://kevinh.wang/new-pc/)，并添置了第二块 SSD、无线网卡等部件。近两年，我认识了更多 GNU/Linux 发行版，如 Debian、Fedora、Arch、Manjaro 等，这些发行版我都安装了一遍，但都由于无法满足我的使用需求而被我放弃。由于 [CentOS 8 提前结束支持](https://kevinh.wang/its-time-to-replace-centos/)，我把 VPS 的系统换成了 Debian，保持至今。2020 年 12 月，我买了树莓派 4B，虽然没能避免吃灰的命运（笑），但我暂时没有把它卖掉的打算，说不定未来会有用的（更新：我还是把它卖掉了）。
 
 <img width="480" src="/img/in-post/raspberrypi.webp" />
 
