@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-12-15
+- **最后更新**：2025-12-27
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -65,8 +65,18 @@ top_img: false
 - `中国移动智能家庭网关 H3-2s`
 
 ## 手机
-### Redmi K70E
+### 荣耀 WIN RT
 - **状态**: 主力机
+- **购买时间**: 2025-12-27
+- **SoC**: 骁龙 8 至尊版
+- **GPU**: Adreno 830
+- **RAM**: 12GB LPDDR5x Ultra
+- **ROM**: 512GB UFS 4.1
+- **屏幕**: 6.83" AMOLED (2800x1272)
+- **OS**: Android 16 (MagicOS 10)
+
+### Redmi K70E
+- **状态**: 二号主力机
 - **购买时间**: 2024-07-09
 - **SoC**: MediaTek 天玑 8300-Ultra
 - **GPU**: Arm Mali-G615 MC6
@@ -224,9 +234,10 @@ top_img: false
 - `酷派 T60`: 闲置
 
 ## 平板电脑
-### REDMI K Pad
-- **状态**: 主力机
+### ~~REDMI K Pad~~
+- **状态**: 卖掉了
 - **购买时间**: 2025-10-09
+- **卖出时间**: 2025-12-27
 - **SoC**: MediaTek 天玑 9400+
 - **GPU**: Arm Immortalis-G925 MC12
 - **RAM**: 12GB LPDDR5x
