@@ -256,7 +256,7 @@ top_img: false
 - **OS**: Android 16 (Xiaomi HyperOS 3)
 
 ### 易百分 YBFA9
-- **状态**: 闲置，电池衰减严重
+- **状态**: 家人使用，电池衰减严重
 - **备注**: [实际是山寨产品](https://kevinh.wang/fake-phone/)
 - **购买时间**: 2021-12
 - **SoC**: MediaTek MT6753
