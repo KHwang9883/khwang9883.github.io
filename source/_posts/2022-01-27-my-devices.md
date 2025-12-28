@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-12-27
+- **最后更新**：2025-12-28
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -234,6 +234,16 @@ top_img: false
 - `酷派 T60`: 闲置
 
 ## 平板电脑
+### 联想小新 Pad Plus
+- **状态**: 主要用于电脑副屏
+- **购买时间**: 2022-04-17
+- **SoC**: 高通骁龙 750G
+- **GPU**: Adreno 619
+- **RAM**: 6GB LPDDR4x
+- **ROM**: 128GB UFS 2.1
+- **屏幕**: 11" LCD (2000x1200)
+- **OS**: Android 12 (ZUI 14)
+
 ### ~~REDMI K Pad~~
 - **状态**: 卖掉了
 - **购买时间**: 2025-10-09
@@ -244,16 +254,6 @@ top_img: false
 - **ROM**: 512GB UFS 4.1
 - **屏幕**: 8.8" LCD (3008x1880)
 - **OS**: Android 16 (Xiaomi HyperOS 3)
-
-### 联想小新 Pad Plus
-- **状态**: 给家人用
-- **购买时间**: 2022-04-17
-- **SoC**: 高通骁龙 750G
-- **GPU**: Adreno 619
-- **RAM**: 6GB LPDDR4x
-- **ROM**: 128GB UFS 2.1
-- **屏幕**: 11" LCD (2000x1200)
-- **OS**: Android 12 (ZUI 14)
 
 ### 易百分 YBFA9
 - **状态**: 闲置，电池衰减严重
