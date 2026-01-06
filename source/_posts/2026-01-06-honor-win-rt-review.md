@@ -1,5 +1,5 @@
 ---
-title: "荣耀 WIN RT 使用体验"
+title: "荣耀 WIN RT 使用体验小记"
 top_img: false
 ---
 
