@@ -13,7 +13,7 @@ top_img: false
 ## ToDesk
 2024 年 3 月，我发现了 [ToDesk](https://www.todesk.com/) 这款软件，于是便下载试用了一下。这软件分免费的个人版和收费的专业版、游戏版和性能版，和 Parsec 一样是通过 P2P 传输。个人版只支持 1080P@30fps，而实际显示效果在我平板上明显比 Parsec 差一挡（界面灰蒙蒙的）。远程控制需要输入密码或在被控端确认，不如 Parsec 方便；结束远控时还会提示是否（给被控端）锁屏，我觉得这个没啥必要。鼠标光标在我这平板上显得大了些。这软件做了一些比较不错的功能，并且不止 Windows PC 可以被控，还支持 macOS、iOS 和 Android 等平台（Android 被控需要收费）。值得一提的是，ToDesk 手机端支持 Wake-on-LAN，可以配合另一款比较牛逼的远控软件 [HiPC](https://hipc.cn/) 使用，就不用购买他家的开机卡了。缺点除了画质略差，还有我平板键盘的触控板工作不正常（貌似 Android 端的远控 app 不少都没做触控板支持）。以及这段文字我是用平板上的 ToDesk 远控 PC 码完的。
 
-**（2024-07-12 更新）**ToDesk 被我卸载了，因为体验不如 Parsec。而它的 Wake-On-LAN 功能我用 [Google Play 上的一款免费 app](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan) 替代了，所以就不需要 ToDesk 了。
+（**2024-07-12 更新**）ToDesk 被我卸载了，因为体验不如 Parsec。而它的 Wake-On-LAN 功能我用 [Google Play 上的一款免费 app](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan) 替代了，所以就不需要 ToDesk 了。
 
 ## Moonlight
 [Moonlight](https://moonlight-stream.org/) 是 GeForce Experience 的 NVIDIA Shield 串流的第三方开源客户端，可以在任意 Moonlight 支持的设备上使用。在使用 Moonlight 之前，需要进入 GeForce Experience 的 SHIELD 设置，打开 GAMESTREAM。接着在 Moonlight 里选择 PC，随后平板屏幕上会出现一个四位数验证码，在 PC 上输入这个验证码并确认，就能连上了。虽然 Moonlight 连接时必须选择一个特定游戏，但其实可以选择 Steam，然后将其最小化，这样做就是一个标准的局域网远程桌面。它的优点是可以直接使用连接了平板的键鼠，相当于一部完整的「云电脑」，平板键盘的触控板也是正常的；缺点是远控需要折腾内网穿透。
