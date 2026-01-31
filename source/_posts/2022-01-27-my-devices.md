@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2025-12-28
+- **最后更新**：2026-01-31
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -65,14 +65,27 @@ top_img: false
 - `中国移动智能家庭网关 H3-2s`
 
 ## 手机
-### 荣耀 WIN RT
+### REDMI Turbo 5 Max
 - **状态**: 主力机
+- **购买时间**: 2026-01-29
+- **SoC**: MediaTek 天玑 9500s
+- **GPU**: Arm Immortalis-G925 MC12
+- **RAM**: 12GB LPDDR5x Ultra
+- **ROM**: 512GB UFS 4.1
+- **屏幕**: 6.83" AMOLED (2772x1280)
+- **电池**: 9000mAh (典型值)
+- **OS**: Android 16 (Xiaomi HyperOS 3)
+
+### ~~荣耀 WIN RT~~
+- **状态**: 换购新机回收
 - **购买时间**: 2025-12-27
+- **卖出时间**: 2026-01-31
 - **SoC**: 骁龙 8 至尊版
 - **GPU**: Adreno 830
 - **RAM**: 12GB LPDDR5x Ultra
 - **ROM**: 512GB UFS 4.1
 - **屏幕**: 6.83" AMOLED (2800x1272)
+- **电池**: 10000mAh (典型值)
 - **OS**: Android 16 (MagicOS 10)
 
 ### Redmi K70E
@@ -83,6 +96,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.0
 - **屏幕**: 6.67" AMOLED (2712x1220)
+- **电池**: 5500mAh (典型值)
 - **OS**: Android 16 (Xiaomi HyperOS 3)
 
 ### Redmi Note 9 5G
@@ -93,6 +107,7 @@ top_img: false
 - **RAM**: 8GB LPDDR4x
 - **ROM**: 128GB UFS 2.2
 - **屏幕**: 6.53" LCD (2340x1080)
+- **电池**: 5000mAh (典型值)
 - **OS**: Android 12 (MIUI 14)
 
 ### Redmi K40
@@ -103,6 +118,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5
 - **ROM**: 256GB UFS 3.1
 - **屏幕**: 6.67" AMOLED (2400x1080)
+- **电池**: 4520mAh (典型值)
 - **OS**: Android 13 (Xiaomi HyperOS 1)
 
 ### ~~Redmi K20~~
@@ -114,6 +130,7 @@ top_img: false
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
 - **屏幕**: 6.39" AMOLED (2340x1080)
+- **电池**: 4000mAh (典型值)
 - **OS**: Android 11 (MIUI 12.5)
 
 ### 小米 Max 2
@@ -125,6 +142,7 @@ top_img: false
 - **RAM**: 4GB LPDDR3
 - **ROM**: 64GB eMMC
 - **屏幕**: 6.44" LCD (1920x1080)
+- **电池**: 5300mAh (典型值)
 - **OS**: Android 7.1.1 (MIUI 11)
 
 ### 荣耀 V8 高配版
@@ -136,6 +154,7 @@ top_img: false
 - **RAM**: 4GB LPDDR4
 - **ROM**: 64GB eMMC
 - **屏幕**: 5.7" LCD (2560x1440)
+- **电池**: 3500mAh (典型值)
 - **OS**: Android 8.0.0 (EMUI 8.0)
 
 ### 红米 Note 4
@@ -147,6 +166,7 @@ top_img: false
 - **RAM**: 3GB LPDDR3
 - **ROM**: 64GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
+- **电池**: 4100mAh (典型值)
 - **OS**: Android 6.0 (MIUI 10)
 
 ### 红米 Note 3 全网通
@@ -158,6 +178,7 @@ top_img: false
 - **RAM**: 3GB LPDDR3
 - **ROM**: 32GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
+- **电池**: 4050mAh (典型值)
 - **OS**: Android 6.0.1 (MIUI 8)
 
 ### 红米 Note 3 双网通
@@ -169,6 +190,7 @@ top_img: false
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
 - **屏幕**: 5.5" LCD (1920x1080)
+- **电池**: 4050mAh (典型值)
 - **OS**: Android 5.0.2 (MIUI 9)
 
 ### 红米 2 电信版
@@ -180,6 +202,7 @@ top_img: false
 - **RAM**: 1GB LPDDR3
 - **ROM**: 8GB eMMC
 - **屏幕**: 4.7" LCD (1280x720)
+- **电池**: 2265mAh (典型值)
 - **OS**: Android 10 (LineageOS 17.1)
 
 ### ~~华为 C8816D~~
@@ -190,6 +213,7 @@ top_img: false
 - **RAM**: 1GB
 - **ROM**: 4GB
 - **屏幕**: 5" LCD (960x540)
+- **电池**: 2000mAh
 - **OS**: Android 4.3 (EMUI 2.0)
 
 ### 红米 1S 电信版
@@ -201,6 +225,7 @@ top_img: false
 - **RAM**: 1GB LPDDR3
 - **ROM**: 8GB eMMC
 - **屏幕**: 4.7" LCD (1280x720)
+- **电池**: 2000mAh
 - **OS**: Android 7.1.2 (魔趣)
 
 ### 中兴 Q301C
@@ -212,6 +237,7 @@ top_img: false
 - **RAM**: 512MB
 - **ROM**: 2GB
 - **屏幕**: 5" LCD (854x480)
+- **电池**: 1650mAh
 - **OS**: Android 4.3
 
 ### ~~中兴 U817~~
@@ -222,6 +248,7 @@ top_img: false
 - **RAM**: 512MB
 - **ROM**: 2GB
 - **屏幕**: 4.5" LCD (854x480)
+- **电池**: 1600mAh
 - **OS**: Android 4.0.4
 
 ### 其他手机
@@ -242,6 +269,7 @@ top_img: false
 - **RAM**: 6GB LPDDR4x
 - **ROM**: 128GB UFS 2.1
 - **屏幕**: 11" LCD (2000x1200)
+- **电池**: 7700mAh (典型值)
 - **OS**: Android 12 (ZUI 14)
 
 ### ~~REDMI K Pad~~
@@ -253,6 +281,7 @@ top_img: false
 - **RAM**: 12GB LPDDR5x
 - **ROM**: 512GB UFS 4.1
 - **屏幕**: 8.8" LCD (3008x1880)
+- **电池**: 7500mAh (典型值)
 - **OS**: Android 16 (Xiaomi HyperOS 3)
 
 ### 易百分 YBFA9
@@ -285,6 +314,7 @@ top_img: false
 - **RAM**: 2GB LPDDR3
 - **ROM**: 16GB eMMC
 - **屏幕**: 7" LCD (1024x600)
+- **电池**: 3100mAh
 - **OS**: Android 6.0 (EMUI 4.1)
 
 ### ~~iPad mini 2 (日版)~~
@@ -304,6 +334,7 @@ top_img: false
 - **RAM**: 512MB
 - **ROM**: 8GB
 - **屏幕**: 7" LCD (960x540)
+- **电池**: 2500mAh
 - **OS**: Android 4.4.2
 
 ### ~~原道 N90 四核 IPS~~
@@ -313,6 +344,7 @@ top_img: false
 - **RAM**: 1GB
 - **ROM**: 16GB
 - **屏幕**: 9.7" LCD (1024x768)
+- **电池**: 5000mAh
 - **OS**: Android 4.2.2
 
 ### ~~原道 N12~~
@@ -322,6 +354,7 @@ top_img: false
 - **RAM**: 512MB DDR3
 - **ROM**: 8GB
 - **屏幕**: 7" LCD (800x480)
+- **电池**: 4500mAh
 - **OS**: Android 4.1.1
 
 ## 游戏设备
