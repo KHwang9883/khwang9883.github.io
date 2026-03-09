@@ -25,9 +25,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 
         {
             name: 'dasasdhba',
-            info: 'Moonstruck Blossom',
+            info: '随缘更新，分享价值。',
             site: 'https://dasasdhba.github.io/',
-            avatar: 'https://kevinh.wang/img/friends/dasasdhba.jpg'
+            avatar: 'https://kevinh.wang/img/friends/dasasdhba.webp'
         },
         {
             name: 'WSW 的小屋',
