@@ -3,7 +3,7 @@ title: "我的电子设备们"
 top_img: false
 ---
 
-- **最后更新**：2026-02-01
+- **最后更新**：2026-03-09
 
 <img src="/img/in-post/device-map.webp" />
 
@@ -18,7 +18,8 @@ top_img: false
 - **SSD1**: 铠侠 EXCERIA SSD (RC10) NVMe 1TB
 - **SSD2**: 铠侠 EXCERIA G2 SSD (RC20) NVMe 2TB
 - **HDD**: 东芝 DT01ACA300 3TB
-- **显示器**: 创维 M271FJ 27" (1920x1080)
+- **显示器 (主)**: 创维 F27G32Q Pro 27" (2560x1440)
+- **显示器 (副)**: 创维 M271FJ 27" (1920x1080)
 - **键盘**: 狼途 LT104 银轴
 - **鼠标**: 雷蛇 炼狱蝰蛇标准版
 - **OS**: Windows 11 Pro 25H2 (安装于 SSD1)
