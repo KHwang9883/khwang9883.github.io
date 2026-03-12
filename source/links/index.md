@@ -24,10 +24,10 @@ document.addEventListener('DOMContentLoaded', function() {
             avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3526514925&s=640'
         }, 
         {
-            name: 'dasasdhba',
-            info: '随缘更新，分享价值。',
-            site: 'https://dasasdhba.github.io/',
-            avatar: 'https://kevinh.wang/img/friends/dasasdhba.webp'
+            name: 'das\'s Blog',
+            info: 'Moonstruck Blossom',
+            site: 'https://das-blog.pages.dev/',
+            avatar: 'https://das-blog.pages.dev/img/avatar.png'
         },
         {
             name: 'WSW 的小屋',
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ------
 
-(Last update: 2024-09-29)
+(Last update: 2026-03-13)
 
 如需添加链接或更新，请在评论区留言，或通过侧边栏中的联系方式私信我。
 
